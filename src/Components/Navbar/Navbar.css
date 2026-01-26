@@ -1,0 +1,20 @@
+nav a{
+    margin-right: 20px;
+    font-size: 1rem;
+}
+
+nav a.active {
+    text-decoration: underline;
+    background: linear-gradient(to right, #632EE3, #9F62F2); 
+  -webkit-background-clip: text;  
+  -webkit-text-fill-color: transparent; 
+  background-clip: text;  
+  color: transparent;      
+  font-weight: bold; 
+}
+
+@media (max-width: 600px) {
+    nav a {
+        font-size: 0.7rem;
+    }
+}

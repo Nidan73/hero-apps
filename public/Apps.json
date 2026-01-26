@@ -268,7 +268,851 @@
       { "name": "4 star", "count": 287 },
       { "name": "5 star", "count": 534 }
     ]
+  } ,
+  {
+    "image": "https://i1.pickpik.com/photos/260/556/929/technology-social-media-technology-preview.jpg",
+    "title": "SocialHub",
+    "companyName": "ConnectNet",
+    "id": 16,
+    "description": "SocialHub is the definitive all-in-one social media management powerhouse designed for digital marketers, influencers, and businesses who need to maintain a consistent online presence across multiple platforms simultaneously. The application provides a unified dashboard where you can schedule posts, monitor real-time engagement, and analyze deep performance metrics for all your connected accounts, including Twitter, Instagram, and LinkedIn. SocialHub features a collaborative content calendar that allows teams to draft, review, and approve visual assets before they go live, ensuring a cohesive brand voice. With integrated social listening tools, you can track brand mentions and trending keywords to stay ahead of the conversation. The app also includes advanced automation features for direct messaging and comment moderation, all protected by secure multi-factor authentication, making SocialHub the ultimate command center for maximizing your digital impact and fostering meaningful community growth efficiently.",
+    "size": 69,
+    "reviews": 1558,
+    "ratingAvg": 4.3,
+    "downloads": 553090,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 155 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 358 },
+      { "name": "5 star", "count": 695 }
+    ]
+  },
+  {
+    "image": "https://s3.mordorintelligence.com/global-subscription-based-gaming-market/global-subscription-based-gaming-market-1713269329705-Subscription-Based-Gaming-Market-ML.webp",
+    "title": "GameZone",
+    "companyName": "PlayWorld",
+    "id": 17,
+    "description": "GameZone is a premier mobile gaming ecosystem designed to help players discover, track, and enjoy the latest high-performance mobile titles within a vibrant community of fellow enthusiasts. The application serves as a central hub where users can explore a massive catalog of games across every genre, from fast-paced competitive shooters and deep RPGs to relaxing puzzle titles. GameZone features personalized recommendations based on your playstyle, allowing you to find your next obsession effortlessly. The platform includes a robust achievement system, detailed gameplay statistics, and early access to upcoming releases through exclusive beta programs. Users can also join community forums to discuss strategies, share screen recordings, and compete in global leaderboards. With its sleek, performance-optimized interface and integrated cloud-save support, GameZone transforms your smartphone into a dedicated gaming console, offering a professional-grade experience that keeps you connected to the global gaming world 24/7.",
+    "size": 33,
+    "reviews": 877,
+    "ratingAvg": 4.2,
+    "downloads": 330629,
+    "ratings": [
+      { "name": "1 star", "count": 87 },
+      { "name": "2 star", "count": 96 },
+      { "name": "3 star", "count": 122 },
+      { "name": "4 star", "count": 192 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "https://openclipart.org/download/250668/Icones.svg",
+    "title": "RecipeBook",
+    "companyName": "CookEasy",
+    "id": 18,
+    "description": "RecipeBook is a comprehensive culinary companion designed to inspire home chefs of all skill levels by providing access to thousands of professionally curated recipes and personalized meal plans. The application offers an intuitive search engine that allows you to find dishes based on specific dietary restrictions, available ingredients, or desired cooking times, making it easy to answer the daily question of what to eat. Each recipe features high-definition imagery, step-by-step video tutorials, and precise nutritional breakdowns to ensure cooking success. RecipeBook also includes a smart grocery list feature that automatically organizes your shopping items by aisle and syncs with local delivery services for ultimate convenience. Users can create their own digital cookbooks, share recipes with family members, and join a global community to post photos of their creations, turning every meal into a creative and rewarding experience in your kitchen.",
+    "size": 29,
+    "reviews": 1871,
+    "ratingAvg": 4.8,
+    "downloads": 849434,
+    "ratings": [
+      { "name": "1 star", "count": 74 },
+      { "name": "2 star", "count": 93 },
+      { "name": "3 star", "count": 205 },
+      { "name": "4 star", "count": 523 },
+      { "name": "5 star", "count": 976 }
+    ]
+  },
+  {
+    "image": "https://s3.mordorintelligence.com/online-language-learning-market/online-language-learning-market-1750156121502-major-players.webp",
+    "title": "LanguageLearn",
+    "companyName": "LinguaApp",
+    "id": 19,
+    "description": "LanguageLearn is a revolutionary interactive platform designed to help users master new languages through a scientifically-backed curriculum that emphasizes speaking, listening, and real-world conversation skills. The application utilizes advanced voice-recognition technology to provide instant feedback on your pronunciation, ensuring you develop authentic accents from the very first lesson. With a diverse range of courses spanning over 50 global languages, the app offers structured paths that cater to both complete beginners and advanced speakers looking to refine their fluency. LanguageLearn features gamified daily challenges, culturally immersive stories, and live practice sessions with native speakers to keep you motivated and engaged. The app’s adaptive learning algorithm tracks your progress and adjusts lesson difficulty in real-time to focus on your specific weaknesses. Whether you are preparing for international travel or a new career opportunity, LanguageLearn provides the tools needed to break down communication barriers and connect with the world.",
+    "size": 30,
+    "reviews": 2353,
+    "ratingAvg": 4.9,
+    "downloads": 517660,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 94 },
+      { "name": "3 star", "count": 247 },
+      { "name": "4 star", "count": 682 },
+      { "name": "5 star", "count": 1260 }
+    ]
+  },
+  {
+    "image": "https://cdni.iconscout.com/illustration/free/thumb/free-relaxing-mind-illustration-svg-download-png-1749566.png",
+    "title": "MeditationGuide",
+    "companyName": "ZenMind",
+    "id": 20,
+    "description": "MeditationGuide is a premium wellness application designed to provide a sanctuary of calm in your pocket through expertly guided meditations, breathwork exercises, and relaxing soundscapes. Developed in collaboration with mindfulness experts and neuroscientists, the app offers tailored sessions to help you reduce stress, improve focus, and enhance your overall emotional well-being. Whether you have three minutes for a quick mid-day reset or an hour for a deep sleep induction, MeditationGuide features a diverse library of content for every schedule and experience level. The platform includes a mood tracker to help you visualize your mental health journey and personalized recommendations that adapt to your current state of mind. With offline access and a beautiful, minimalist design, the app allows you to cultivate a consistent mindfulness practice anywhere, helping you find inner peace and mental clarity in a fast-paced world.",
+    "size": 46,
+    "reviews": 2676,
+    "ratingAvg": 4.0,
+    "downloads": 936600,
+    "ratings": [
+      { "name": "1 star", "count": 321 },
+      { "name": "2 star", "count": 347 },
+      { "name": "3 star", "count": 401 },
+      { "name": "4 star", "count": 535 },
+      { "name": "5 star", "count": 1072 }
+    ]
+  },
+  {
+    "image": "https://marketcentralhub.com/wp-content/uploads/2021/09/Ebook-image-1024x576.jpg",
+    "title": "BookReader",
+    "companyName": "LitLibrary",
+    "id": 21,
+    "description": "BookReader is a sophisticated digital library and e-book reader designed to provide bibliophiles with an unparalleled reading experience through a massive collection of titles and advanced customization features. The application supports a wide range of file formats, including EPUB, PDF, and audiobooks, allowing you to enjoy your favorite stories exactly how you prefer. BookReader features a highly customizable interface where you can adjust font types, background colors, and margin sizes to create the perfect visual environment for long reading sessions. The app’s intelligent syncing engine ensures that your bookmarks, highlights, and notes are available across all your devices seamlessly. Users can also access a built-in dictionary for instant definitions and enjoy a night mode that reduces eye strain. With curated reading lists and a robust offline mode, BookReader turns your device into a portable library that houses thousands of worlds ready for exploration.",
+    "size": 65,
+    "reviews": 2341,
+    "ratingAvg": 4.1,
+    "downloads": 786576,
+    "ratings": [
+      { "name": "1 star", "count": 257 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 339 },
+      { "name": "4 star", "count": 491 },
+      { "name": "5 star", "count": 974 }
+    ]
+  },
+  {
+    "image": "https://s3.mordorintelligence.com/podcast-market/podcast-market-1752155768658-major-players.webp",
+    "title": "PodcastPlayer",
+    "companyName": "AudioCast",
+    "id": 22,
+    "description": "PodcastPlayer is the ultimate destination for audio enthusiasts, providing a powerful and intuitive platform to discover, subscribe to, and enjoy millions of podcasts from around the globe. The application features a robust discovery engine that suggests new shows based on your interests, listening history, and trending topics across categories like true crime, technology, and comedy. PodcastPlayer allows for a highly personalized listening experience with adjustable playback speeds, silence trimming, and advanced volume boosting for clear audio in noisy environments. Users can create custom playlists, download episodes for offline listening, and set sleep timers for late-night sessions. The app’s seamless cloud sync keeps your subscriptions and playback progress updated across all your devices, while a clean, ad-free interface ensures you stay focused on the content that matters most to you, making it the perfect companion for your daily commute.",
+    "size": 69,
+    "reviews": 1012,
+    "ratingAvg": 4.3,
+    "downloads": 342056,
+    "ratings": [
+      { "name": "1 star", "count": 91 },
+      { "name": "2 star", "count": 101 },
+      { "name": "3 star", "count": 136 },
+      { "name": "4 star", "count": 232 },
+      { "name": "5 star", "count": 452 }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/5444631/pexels-photo-5444631.jpeg",
+    "title": "MapNavigator",
+    "companyName": "GeoGuide",
+    "id": 23,
+    "description": "MapNavigator is a high-performance navigation tool engineered to provide users with reliable, real-time direction and geographic insights even in the most remote locations. The application features advanced offline mapping technology, allowing you to download entire countries and navigate without a data connection, which is essential for international travelers and outdoor adventurers. MapNavigator provides precise voice-guided turn-by-turn directions, real-time traffic updates to help you avoid delays, and detailed lane guidance for complex highway interchanges. Users can also explore millions of points of interest, including restaurants, gas stations, and historical landmarks, complete with photos and community reviews. With integrated public transit schedules, cycling routes, and walking paths, the app offers a comprehensive view of your surroundings. Whether you are commuting to work or exploring a new city, MapNavigator provides the accuracy and features needed to reach your destination safely and efficiently.",
+    "size": 98,
+    "reviews": 2907,
+    "ratingAvg": 4.4,
+    "downloads": 392445,
+    "ratings": [
+      { "name": "1 star", "count": 232 },
+      { "name": "2 star", "count": 261 },
+      { "name": "3 star", "count": 377 },
+      { "name": "4 star", "count": 697 },
+      { "name": "5 star", "count": 1340 }
+    ]
+  },
+  {
+    "image": "https://s.cystack.net/resource/home/content/08100042/local-cloud-2.png",
+    "title": "PasswordSafe",
+    "companyName": "SecureVault",
+    "id": 24,
+    "description": "PasswordSafe is a world-class digital vault designed to protect your most sensitive login credentials and personal information through military-grade encryption and a zero-knowledge security architecture. The application simplifies your digital life by securely storing all your passwords, credit card details, and private notes, requiring only a single master password or biometric scan for access. PasswordSafe features an advanced password generator that creates complex, unique keys for every account, significantly reducing your risk of a data breach. The app’s seamless browser integration and auto-fill capabilities allow you to log in to websites and apps instantly across all your devices. Users can also utilize secure sharing folders for family members and receive alerts about compromised accounts through a built-in dark web monitor. With its clean interface and robust security features, PasswordSafe ensures your digital identity remains strictly confidential while providing unmatched convenience in an increasingly connected world.",
+    "size": 79,
+    "reviews": 2051,
+    "ratingAvg": 4.2,
+    "downloads": 412251,
+    "ratings": [
+      { "name": "1 star", "count": 205 },
+      { "name": "2 star", "count": 225 },
+      { "name": "3 star", "count": 287 },
+      { "name": "4 star", "count": 451 },
+      { "name": "5 star", "count": 883 }
+    ]
+  },
+  {
+    "image": "https://www.cloudxdpo.com/hubfs/Eliminating-Payment-Delays-The-Case-for-Automating-Accounts-Payable-in-Your-Dealership-B9.png",
+    "title": "CalendarPlus",
+    "companyName": "EventMaster",
+    "id": 25,
+    "description": "CalendarPlus is a sophisticated scheduling platform designed to help busy individuals and professional teams manage their time with maximum efficiency through advanced event tracking and intelligent reminders. The application offers a highly intuitive interface where you can visualize your schedule by day, week, month, or as a streamlined agenda, making it easy to spot gaps in your availability. CalendarPlus features seamless integration with multiple email accounts and third-party task managers, allowing you to centralize all your commitments in one place. Users can set granular reminders, create recurring events with complex patterns, and invite participants with real-time RSVP tracking. The app also includes advanced time-zone support and weather forecasts for your scheduled meetings. With its sleek design and cross-platform synchronization, CalendarPlus ensures you stay organized, meet every deadline, and never miss an important life event or professional milestone again.",
+    "size": 49,
+    "reviews": 2073,
+    "ratingAvg": 4.1,
+    "downloads": 796032,
+    "ratings": [
+      { "name": "1 star", "count": 228 },
+      { "name": "2 star", "count": 248 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 435 },
+      { "name": "5 star", "count": 862 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bulut_icon.svg",
+    "title": "ScannerApp",
+    "companyName": "DocScan",
+    "id": 26,
+    "description": "ScannerApp is a high-performance document digitization tool that transforms your smartphone into a portable, professional-grade scanner capable of creating crystal-clear PDFs and JPEGs in seconds. Utilizing advanced image-processing algorithms, the application automatically detects document edges, corrects perspective distortion, and enhances text clarity for a perfect scan every time. ScannerApp features robust OCR (Optical Character Recognition) technology that allows you to extract text from images in multiple languages for easy editing and sharing. Users can organize their digital documents into custom folders, protect sensitive files with passwords, and export directly to popular cloud storage services like Google Drive and Dropbox. The app also includes features for digital signatures and multi-page scanning for complex contracts. Whether you are scanning receipts, whiteboards, or business cards, ScannerApp provides the speed and precision needed to go paperless and stay organized efficiently.",
+    "size": 59,
+    "reviews": 2009,
+    "ratingAvg": 4.1,
+    "downloads": 293314,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 241 },
+      { "name": "3 star", "count": 291 },
+      { "name": "4 star", "count": 421 },
+      { "name": "5 star", "count": 836 }
+    ]
+  },
+  {
+    "image": "https://cdn.sparrowcode.io/tutorials/sf-symbols-and-render-mode/palette-render.jpg",
+    "title": "Translator",
+    "companyName": "LangTrans",
+    "id": 27,
+    "description": "Translator is an essential global communication tool designed to break down language barriers instantly through real-time text, voice, and image translation. Powered by advanced neural machine translation engines, the application provides highly accurate results for over 100 languages, making it a vital companion for international travelers, students, and business professionals. Translator features a unique conversation mode that allows two people to speak naturally into a single device and receive instant translated responses, enabling seamless cross-cultural dialogue. The app also includes a powerful camera translation feature that can decode street signs, menus, and documents simply by pointing your lens at them. With an extensive offline mode for travel without data and a phrasebook for common expressions, Translator ensures you can navigate any country with confidence. Its clean, fast, and reliable interface makes it the perfect bridge to connecting with people and cultures worldwide.",
+    "size": 24,
+    "reviews": 1571,
+    "ratingAvg": 4.4,
+    "downloads": 425741,
+    "ratings": [
+      { "name": "1 star", "count": 125 },
+      { "name": "2 star", "count": 141 },
+      { "name": "3 star", "count": 204 },
+      { "name": "4 star", "count": 377 },
+      { "name": "5 star", "count": 724 }
+    ]
+  },
+  {
+    "image": "https://www.tradingsim.com/hubfs/Imported_Blog_Media/PaperTradingApps-2.png",
+    "title": "StockTracker",
+    "companyName": "InvestWise",
+    "id": 28,
+    "description": "StockTracker is a comprehensive financial monitoring platform designed to help investors and traders stay ahead of the global markets through real-time data, expert analysis, and advanced portfolio management tools. The application provides instant access to live quotes, detailed technical charts, and breaking financial news for stocks, ETFs, cryptocurrencies, and commodities across all major exchanges. StockTracker features highly customizable watchlists and real-time price alerts, ensuring you never miss a critical market move. Users can also utilize the app's integrated portfolio tracker to monitor their net worth, calculate gains and losses, and receive personalized insights into their investment performance. With a robust research section containing historical data and analyst ratings, StockTracker empowers you to make data-driven decisions with professional precision. Protected by high-level encryption and biometric security, it is the ultimate mobile companion for navigating the complexities of modern finance confidently.",
+    "size": 89,
+    "reviews": 1734,
+    "ratingAvg": 4.0,
+    "downloads": 563550,
+    "ratings": [
+      { "name": "1 star", "count": 208 },
+      { "name": "2 star", "count": 225 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 346 },
+      { "name": "5 star", "count": 695 }
+    ]
+  },
+  {
+    "image": "https://cdn.iconscout.com/icon-pack/preview-mockup/free-apple-watch-icon-pack-svg-download-png-23276.png",
+    "title": "WorkoutPlanner",
+    "companyName": "FitPlan",
+    "id": 29,
+    "description": "WorkoutPlanner is a highly customizable fitness platform designed to help users build muscle, lose weight, and improve their physical performance through structured training programs and detailed progress tracking. The application features an extensive exercise library with thousands of videos and instructions for weightlifting, bodyweight training, and cardio routines. Users can create their own custom workouts or choose from professionally designed plans tailored to their specific fitness level and equipment access. WorkoutPlanner includes advanced tracking features for sets, reps, and weights, providing visual progress charts to keep you motivated. The app also offers integrated rest timers, volume analytics, and social sharing options to connect with a community of fellow athletes. With its clean, performance-oriented design and seamless synchronization across all your devices, WorkoutPlanner provides the professional-grade tools needed to transform your body and achieve your long-term athletic goals efficiently.",
+    "size": 88,
+    "reviews": 678,
+    "ratingAvg": 4.2,
+    "downloads": 96276,
+    "ratings": [
+      { "name": "1 star", "count": 67 },
+      { "name": "2 star", "count": 74 },
+      { "name": "3 star", "count": 94 },
+      { "name": "4 star", "count": 149 },
+      { "name": "5 star", "count": 294 }
+    ]
+  },
+  {
+    "image": "https://bodylabstudios.com/wp-content/uploads/2025/08/Blue-light-when-to-use-1024x683.png",
+    "title": "SleepTracker",
+    "companyName": "RestWell",
+    "id": 30,
+    "description": "SleepTracker is a sophisticated sleep science application designed to help you achieve restorative rest through advanced monitoring, data analysis, and personalized coaching tips. By utilizing your device’s sensors and machine learning algorithms, the app tracks your sleep cycles, movement, and environment throughout the night to provide a detailed breakdown of your sleep quality. Users receive daily sleep scores and actionable insights into how factors like caffeine, exercise, and light exposure affect their recovery. SleepTracker features a smart alarm clock that wakes you up during your lightest sleep phase, ensuring you feel refreshed rather than groggy. The platform also includes a library of relaxing soundscapes and guided meditations to help you fall asleep faster. With its focus on long-term habit building and scientifically-backed advice, SleepTracker is the essential tool for anyone looking to optimize their nightly rest and improve their daily performance.",
+    "size": 77,
+    "reviews": 904,
+    "ratingAvg": 4.1,
+    "downloads": 184416,
+    "ratings": [
+      { "name": "1 star", "count": 99 },
+      { "name": "2 star", "count": 108 },
+      { "name": "3 star", "count": 131 },
+      { "name": "4 star", "count": 189 },
+      { "name": "5 star", "count": 377 }
+    ]
+  },
+  {
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/wwdc-2023-journal.jpg?resize=1097,617",
+    "title": "Journal App",
+    "companyName": "DailyWrite",
+    "id": 31,
+    "description": "Journal App is a sophisticated digital sanctuary designed for individuals who value self-reflection and mental clarity through the power of expressive writing. The application offers a beautiful, minimalist interface that removes digital noise, allowing you to focus entirely on your thoughts, daily experiences, and long-term aspirations. Beyond simple text entries, JournalApp integrates an intelligent mood tracker that helps you visualize emotional patterns over weeks and months, providing deep insights into your overall well-being. Users can enrich their stories with high-resolution photos, voice memos, and location tags, creating a rich multimedia archive of their lives. With industry-leading end-to-end encryption and biometric locking, your private reflections remain strictly confidential. The app also features daily writing prompts to overcome writer's block and seamless cloud backup, ensuring your memories are preserved forever in a secure, organized, and easily searchable digital vault.",
+    "size": 31,
+    "reviews": 1806,
+    "ratingAvg": 4.8,
+    "downloads": 370230,
+    "ratings": [
+      { "name": "1 star", "count": 72 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 198 },
+      { "name": "4 star", "count": 505 },
+      { "name": "5 star", "count": 941 }
+    ]
+  },
+  {
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*nDnSNncUWaxAnErl4Nm70Q.jpeg",
+    "title": "QRCodeGen",
+    "companyName": "CodeMaker",
+    "id": 32,
+    "description": "QRCodeGen is a high-performance utility designed to bridge the physical and digital worlds by allowing users to generate and scan highly customized QR codes with professional precision. The application supports a wide array of data types, including URLs, contact information, Wi-Fi credentials, and event details, making it an essential tool for both personal and business use. Users can personalize their codes by adding custom colors, logos, and stylized frames, ensuring their digital touchpoints align with their brand identity. The integrated scanner utilizes advanced computer vision to decode even damaged or low-light codes instantly. QRCodeGen also features an analytics dashboard where you can track scan frequency and geographic data for your generated codes. With its fast, reliable performance and clean user interface, the app simplifies information sharing, making it easier than ever to connect your audience to your digital content in seconds.",
+    "size": 87,
+    "reviews": 1845,
+    "ratingAvg": 4.2,
+    "downloads": 557190,
+    "ratings": [
+      { "name": "1 star", "count": 184 },
+      { "name": "2 star", "count": 202 },
+      { "name": "3 star", "count": 258 },
+      { "name": "4 star", "count": 405 },
+      { "name": "5 star", "count": 796 }
+    ]
+  },
+  {
+    "image": "https://www.soft8soft.com/docs/files/app-manager/app-manager-app-settings-pwa.webp",
+    "title": "UnitConverter",
+    "companyName": "MeasurePro",
+    "id": 33,
+    "description": "UnitConverter is the definitive measurement tool for students, engineers, and DIY enthusiasts who require instant and accurate conversions across hundreds of global units. The application features a comprehensive database covering categories such as length, weight, temperature, area, pressure, and energy, as well as specialized metrics like fuel consumption and data transfer speeds. With a built-in real-time currency converter that updates according to global market rates, it is also an invaluable companion for international travelers and business professionals. The app's 'smart search' and 'favorites' features allow you to access your most frequently used conversions in a single tap. Its clean, ad-free interface is designed for speed, ensuring you get the answers you need without unnecessary distractions. Whether you are following a recipe, working on a complex physics project, or calculating travel costs, UnitConverter provides the precision and versatility required for any task.",
+    "size": 74,
+    "reviews": 1833,
+    "ratingAvg": 4.3,
+    "downloads": 672711,
+    "ratings": [
+      { "name": "1 star", "count": 164 },
+      { "name": "2 star", "count": 183 },
+      { "name": "3 star", "count": 247 },
+      { "name": "4 star", "count": 421 },
+      { "name": "5 star", "count": 818 }
+    ]
+  },
+  {
+    "image": "https://cdn.creazilla.com/cliparts/22536/torch-clipart-xl.png",
+    "title": "Flashlight",
+    "companyName": "BrightLight",
+    "id": 34,
+    "description": "Flashlight by BrightLight is a powerful and reliable utility designed to turn your smartphone into a versatile lighting tool for any emergency or outdoor situation. Beyond a simple on/off switch, the application offers a variety of advanced features, including an adjustable strobe light for signaling, a high-frequency SOS mode for emergencies, and a built-in compass for nighttime navigation. The app also features a screen light mode with customizable colors and brightness levels, perfect for reading in bed or creating ambient lighting. Optimized for efficiency, the app is engineered to provide maximum illumination while minimizing battery drain, ensuring it remains active when you need it most. With its lightning-fast startup time, zero intrusive ads, and an intuitive one-touch interface, this Flashlight app is an essential addition to your digital toolkit, providing peace of mind and clarity whenever you find yourself in the dark.",
+    "size": 64,
+    "reviews": 2874,
+    "ratingAvg": 4.2,
+    "downloads": 796098,
+    "ratings": [
+      { "name": "1 star", "count": 287 },
+      { "name": "2 star", "count": 316 },
+      { "name": "3 star", "count": 402 },
+      { "name": "4 star", "count": 632 },
+      { "name": "5 star", "count": 1237 }
+    ]
+  },
+  {
+    "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMDIxOTUzLWltYWdlLWt3eXJpaTJ4LmpwZw.jpg",
+    "title": "CalculatorPro",
+    "companyName": "MathCalc",
+    "id": 35,
+    "description": "CalculatorPro is a versatile mathematical powerhouse designed to meet the needs of everyone from casual users to advanced scientists and engineering students. The application offers a dual-mode interface: a sleek basic calculator for everyday arithmetic and a comprehensive scientific mode equipped with trigonometric functions, logarithms, and complex equation solvers. CalculatorPro features a persistent history tape, allowing you to review previous calculations, edit them, and see the results update in real-time. The app also includes specialized modules for unit conversions, percentage calculations, and currency exchange rates, making it a truly multi-purpose tool. With its customizable themes and a high-performance engine that handles even the most complex computations instantly, CalculatorPro provides the precision, speed, and reliability required to solve any mathematical challenge. Its intuitive design ensures that professional-grade features remain accessible and easy to use for all, turning your mobile device into a world-class computing machine.",
+    "size": 44,
+    "reviews": 1061,
+    "ratingAvg": 4.7,
+    "downloads": 206895,
+    "ratings": [
+      { "name": "1 star", "count": 53 },
+      { "name": "2 star", "count": 63 },
+      { "name": "3 star", "count": 122 },
+      { "name": "4 star", "count": 286 },
+      { "name": "5 star", "count": 537 }
+    ]
+  },
+  {
+    "image": "https://skyswitch.com/wp-content/uploads/2025/05/SkySwitch-UC-Client-Key-Features-Image-01-1-1-scaled.jpg",
+    "title": "VoiceRecorder",
+    "companyName": "AudioNote",
+    "id": 36,
+    "description": "VoiceRecorder is a professional-grade audio capture tool designed for journalists, students, and musicians who need to record high-fidelity voice memos, lectures, and musical ideas with total reliability. The application features a variety of recording formats and quality settings, allowing you to balance audio clarity with storage efficiency. VoiceRecorder includes advanced features such as silence skipping, background noise reduction, and an integrated bookmarking system that lets you highlight key moments during long recordings for easy reference later. The app's seamless cloud integration ensures your audio files are automatically backed up and accessible across all your devices. With a clean, distraction-free interface and the ability to record even while your screen is locked, VoiceRecorder provides the stability and performance required to capture every detail. Whether you are conducting an interview or drafting a new song, this app turns your device into a powerful studio that fits right in your pocket.",
+    "size": 44,
+    "reviews": 2069,
+    "ratingAvg": 4.7,
+    "downloads": 825531,
+    "ratings": [
+      { "name": "1 star", "count": 103 },
+      { "name": "2 star", "count": 124 },
+      { "name": "3 star", "count": 237 },
+      { "name": "4 star", "count": 558 },
+      { "name": "5 star", "count": 1047 }
+    ]
+  },
+  {
+    "image": "https://www.ctrl.blog/media/hero/windows-openwith-default-program.png",
+    "title": "FileManager",
+    "companyName": "StoragePro",
+    "id": 37,
+    "description": "FileManager is an all-in-one storage management solution designed to give you complete control over the files on your device and in the cloud through a unified, high-performance interface. The application allows users to browse, copy, move, and organize documents, photos, and videos with desktop-level ease. FileManager features a powerful integrated search engine that can find files deep within folders or compressed archives like ZIP and RAR. Beyond local storage, the app supports seamless integration with major cloud services like Google Drive, Dropbox, and OneDrive, allowing for easy file transfers between different storage environments. Users can also utilize the built-in storage analyzer to identify large files and reclaim valuable space. With its clean design and robust security features, including private folders protected by biometric authentication, FileManager is the ultimate tool for keeping your digital life organized, secure, and always accessible in an increasingly data-heavy world.",
+    "size": 72,
+    "reviews": 1323,
+    "ratingAvg": 4.5,
+    "downloads": 325458,
+    "ratings": [
+      { "name": "1 star", "count": 92 },
+      { "name": "2 star", "count": 105 },
+      { "name": "3 star", "count": 165 },
+      { "name": "4 star", "count": 330 },
+      { "name": "5 star", "count": 631 }
+    ]
+  },
+  {
+    "image": "https://p1.hippopx.com/preview/469/904/899/vpn-personal-data-personal-security-cyber-attacks-hacking-malware.jpg",
+    "title": "VPNSecure",
+    "companyName": "NetShield",
+    "id": 38,
+    "description": "VPNSecure is a premier digital privacy tool engineered to safeguard your internet connection and protect your sensitive data from hackers, ISPs, and third-party trackers with military-grade encryption. By routing your traffic through a global network of high-speed, secure servers, the application allows you to browse the web anonymously and bypass geographic restrictions with ease. VPNSecure features a strict no-logs policy, ensuring that your online activity is never recorded or stored. The app's 'kill switch' technology provides an extra layer of protection by instantly disconnecting your internet if the VPN connection drops, preventing any accidental data leaks. With its user-friendly interface and optimized performance for streaming and gaming, VPNSecure provides absolute peace of mind while using public Wi-Fi or accessing sensitive financial accounts. Whether you're traveling abroad or simply value your privacy at home, this app is your essential shield for a truly free and secure internet experience.",
+    "size": 31,
+    "reviews": 856,
+    "ratingAvg": 4.4,
+    "downloads": 154936,
+    "ratings": [
+      { "name": "1 star", "count": 68 },
+      { "name": "2 star", "count": 77 },
+      { "name": "3 star", "count": 111 },
+      { "name": "4 star", "count": 205 },
+      { "name": "5 star", "count": 395 }
+    ]
+  },
+  {
+    "image": "https://www.ctrl.blog/media/hero/safari-default-media-player-icons-missing.jpeg",
+    "title": "BrowserFast",
+    "companyName": "WebSurf",
+    "id": 39,
+    "description": "BrowserFast is a high-speed, privacy-centric web browser designed to provide a cleaner and more efficient internet experience by stripping away digital distractions and intrusive tracking. The application features a powerful ad-blocking engine that speeds up page load times by up to 50% while significantly reducing data consumption. BrowserFast prioritizes user security with a dedicated 'Incognito Plus' mode that automatically clears your history and cookies upon exit. The app also includes a customizable homepage with real-time news feeds, an integrated download manager, and a night mode to reduce eye strain during late-night browsing sessions. With its streamlined multi-tab interface and seamless cross-device synchronization, BrowserFast allows you to access your bookmarks and open tabs effortlessly across your phone, tablet, and desktop. For users who value speed, simplicity, and absolute privacy, BrowserFast is the perfect window into the modern web, offering a professional-grade browsing environment that puts you back in control of your digital journey.",
+    "size": 70,
+    "reviews": 2235,
+    "ratingAvg": 4.8,
+    "downloads": 1115265,
+    "ratings": [
+      { "name": "1 star", "count": 89 },
+      { "name": "2 star", "count": 111 },
+      { "name": "3 star", "count": 245 },
+      { "name": "4 star", "count": 625 },
+      { "name": "5 star", "count": 1165 }
+    ]
+  },
+  {
+    "image": "https://cdn.creazilla.com/cliparts/7929184/email-icon-clipart-xl.png",
+    "title": "EmailClient",
+    "companyName": "MailBox",
+    "id": 40,
+    "description": "EmailClient is a powerful and unified communication hub designed for individuals and professionals who need to manage multiple email accounts across various providers with maximum efficiency and ease. The application features a centralized 'Smart Inbox' that automatically prioritizes your most important messages, while intelligently filtering out spam and low-priority promotional content. EmailClient supports seamless integration with Gmail, Outlook, Yahoo, and IMAP accounts, providing a consistent experience regardless of the service provider. Beyond basic messaging, the app offers advanced features such as email snoozing, scheduled sending, and a robust search function that can find specific attachments or keywords in seconds. With its elegant interface, customizable swipe actions, and bank-level encryption, EmailClient provides the security and organization needed to achieve 'Inbox Zero.' Whether you are coordinating with a global team or staying in touch with family, this app ensures you stay responsive and focused in a world of constant communication.",
+    "size": 60,
+    "reviews": 2657,
+    "ratingAvg": 4.1,
+    "downloads": 1012317,
+    "ratings": [
+      { "name": "1 star", "count": 292 },
+      { "name": "2 star", "count": 318 },
+      { "name": "3 star", "count": 385 },
+      { "name": "4 star", "count": 557 },
+      { "name": "5 star", "count": 1105 }
+    ]
+  },
+  {
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/007b4a6d-3b0b-4043-8816-d1a9155d1841/d4nl129-34c9a0a6-4ec6-41f1-b4d3-32f70cffcd41.png",
+    "title": "CameraPro",
+    "companyName": "SnapShot",
+    "id": 41,
+    "description": "CameraPro is a professional-grade photography application designed to unlock the full potential of your smartphone's camera by providing granular control over every aspect of the shooting process. The application features a 'Pro Mode' that allows you to manually adjust ISO, shutter speed, white balance, and focus, mimicking the experience of a high-end DSLR. CameraPro supports RAW file formats for maximum flexibility during post-processing and includes advanced features like focus peaking, live histograms, and real-time exposure warnings. Users can also utilize specialized shooting modes for macro photography, high-speed action, and stunning long-exposure night shots. With its intuitive interface, high-fidelity image processing, and a massive library of live filters, CameraPro empowers you to capture breathtaking, cinematic visuals in any lighting condition. Whether you are a professional photographer or a casual enthusiast, this app provides the technical precision and creative freedom required to tell your story through stunning, high-resolution imagery.",
+    "size": 74,
+    "reviews": 1786,
+    "ratingAvg": 4.2,
+    "downloads": 653676,
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 196 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 392 },
+      { "name": "5 star", "count": 770 }
+    ]
+  },
+  {
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/5ee26243-71ce-4630-b9af-3ebe395598a5/deas0bz-81db867e-7eb3-4735-bab7-088de5d3a09a.jpg",
+    "title": "GalleryView",
+    "companyName": "PhotoVault",
+    "id": 42,
+    "description": "GalleryView is a comprehensive media management platform designed to help you organize, secure, and rediscover your most precious visual memories through an elegant and highly intuitive interface. The application features an intelligent tagging system that automatically categorizes your photos based on dates, locations, and even facial recognition, making it easy to find specific moments in a library of thousands. Beyond organization, GalleryView offers a 'Private Vault' protected by biometric authentication, ensuring your most sensitive images remain strictly confidential and hidden from the main feed. The app also includes advanced tools for non-destructive editing, slideshow creation, and seamless cloud backup to prevent data loss. With its fast, fluid performance and support for high-resolution video playback, GalleryView turns your photo collection into a beautiful, personalized digital archive. Whether you're a photography enthusiast or simply looking to keep your family photos organized, GalleryView provides the professional-grade tools needed to manage your digital media with absolute confidence.",
+    "size": 47,
+    "reviews": 1119,
+    "ratingAvg": 4.9,
+    "downloads": 387174,
+    "ratings": [
+      { "name": "1 star", "count": 33 },
+      { "name": "2 star", "count": 44 },
+      { "name": "3 star", "count": 117 },
+      { "name": "4 star", "count": 324 },
+      { "name": "5 star", "count": 601 }
+    ]
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/6657203d31396fc757dfafcc/67112ba53bfd7ed6971ca622_66fc316cc050c7c59b43c25e_How-to-Connect-TikTok-to-Apple-Music-on-iPhone-and-iPad.jpeg",
+    "title": "MusicMaker",
+    "companyName": "BeatStudio",
+    "id": 43,
+    "description": "MusicMaker is a versatile digital audio workstation (DAW) designed to empower aspiring musicians, producers, and hobbyists to create high-quality musical tracks directly from their mobile devices with professional precision. The application features a massive library of high-fidelity loops, virtual instruments, and studio-grade sound effects across genres like electronic, hip-hop, and rock. MusicMaker's multi-track timeline allows for complex layering, precision editing, and real-time mixing, making it easy to turn a simple idea into a fully produced song. Users can also record live vocals or instruments through their device's microphone and apply advanced processing like EQ, reverb, and compression. The app includes professional mastering tools and seamless export options for all major audio platforms. With its intuitive interface and high-performance audio engine, MusicMaker democratizes music production, providing the creative freedom and technical tools needed to share your sound with the world, regardless of whether you're in a professional studio or in your bedroom.",
+    "size": 56,
+    "reviews": 2169,
+    "ratingAvg": 4.7,
+    "downloads": 809037,
+    "ratings": [
+      { "name": "1 star", "count": 108 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 249 },
+      { "name": "4 star", "count": 585 },
+      { "name": "5 star", "count": 1097 }
+    ]
+  },
+  {
+    "image": "https://iprx-cms-content.ams1.vultrobjects.com/photo_2023_04_18_18_17_46_7e973240c8.jpeg",
+    "title": "DrawingApp",
+    "companyName": "ArtPad",
+    "id": 44,
+    "description": "DrawingApp is a world-class digital sketching and illustration suite designed to provide artists of all skill levels with a natural and powerful creative experience on their mobile devices. The application features a highly responsive canvas that supports thousands of customizable brushes, including realistic watercolors, oils, and detailed charcoal tools. DrawingApp's advanced layering system allows for non-destructive editing, complex blending modes, and precision masking, mimicking the professional workflow of industry-standard desktop software. Users can also utilize perspective guides, symmetry tools, and a massive color palette library to bring their most intricate ideas to life. With its minimalist, distraction-free interface and support for high-resolution exports, DrawingApp turns your device into a portable studio that is perfect for everything from quick doodles to professional concept art. Whether you are a professional illustrator or a casual creative, this app provides the technical tools and artistic freedom needed to master your craft and share your vision with the world.",
+    "size": 33,
+    "reviews": 2607,
+    "ratingAvg": 4.9,
+    "downloads": 273735,
+    "ratings": [
+      { "name": "1 star", "count": 78 },
+      { "name": "2 star", "count": 104 },
+      { "name": "3 star", "count": 273 },
+      { "name": "4 star", "count": 756 },
+      { "name": "5 star", "count": 1396 }
+    ]
+  },
+  {
+    "image": "https://p0.piqsels.com/preview/644/984/936/newsletter-news-app-article.jpg",
+    "title": "NewsReader",
+    "companyName": "InfoFeed",
+    "id": 45,
+    "description": "NewsReader is a sophisticated personalized news platform designed to keep you informed about the world through a highly curated feed of articles, videos, and live updates from thousands of trusted global sources. The application features an intelligent discovery engine that learns your interests over time, prioritizing stories that matter most to you while offering diverse perspectives on trending topics across politics, technology, sports, and entertainment. NewsReader's clean, distraction-free reading mode removes intrusive ads and clutter, allowing you to focus entirely on the content. Users can also save articles for offline reading, subscribe to specific publications, and receive real-time alerts for breaking news events. With its elegant interface, customizable categories, and seamless cross-device synchronization, NewsReader ensures you stay connected to the information that shapes your world. Whether you are catching up on your morning commute or deep-diving into a complex feature story, NewsReader provides the clarity, speed, and depth required for the modern information age.",
+    "size": 81,
+    "reviews": 2230,
+    "ratingAvg": 4.5,
+    "downloads": 419240,
+    "ratings": [
+      { "name": "1 star", "count": 156 },
+      { "name": "2 star", "count": 178 },
+      { "name": "3 star", "count": 278 },
+      { "name": "4 star", "count": 557 },
+      { "name": "5 star", "count": 1061 }
+    ]
+  },
+  {
+    "image": "https://www.ctrl.blog/media/hero/joplin.png",
+    "title": "TodoList",
+    "companyName": "TaskMaster",
+    "id": 46,
+    "description": "TodoList is an essential productivity companion designed for individuals who need a streamlined and efficient way to manage their daily commitments without the complexity of traditional project management software. The application features a lightning-fast interface that allows you to capture tasks the moment they come to mind, ensuring nothing slips through the cracks. Users can organize their life into customizable lists, set granular reminders with recurring patterns, and utilize a priority system to focus on what truly matters. With seamless cloud synchronization, your to-do lists are always available across your smartphone, tablet, and desktop. The app also includes collaborative features, allowing you to share lists with family or colleagues for effortless coordination. Whether you are managing household chores or professional milestones, TodoList provides the clarity and organization needed to stay productive, meet every deadline, and achieve a stress-free daily routine in a fast-paced world.",
+    "size": 20,
+    "reviews": 1367,
+    "ratingAvg": 4.4,
+    "downloads": 183178,
+    "ratings": [
+      { "name": "1 star", "count": 109 },
+      { "name": "2 star", "count": 123 },
+      { "name": "3 star", "count": 177 },
+      { "name": "4 star", "count": 328 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "image": "https://brandenbodendorfer.com/wp-content/uploads/2024/06/switch-to-a-digital-daily-planner.jpg",
+    "title": "ExpenseTracker",
+    "companyName": "BudgetPro",
+    "id": 47,
+    "description": "ExpenseTracker is a comprehensive personal finance tool designed to help you gain total mastery over your spending habits through effortless tracking and detailed analytical insights. The application simplifies the often tedious task of monitoring daily expenses by offering an intuitive interface where you can log transactions in seconds. Users can categorize their spending, set monthly budget limits for specific categories like dining or entertainment, and receive real-time notifications when they approach their financial boundaries. ExpenseTracker features beautiful visual charts and reports that help you identify unnecessary costs and optimize your savings potential over time. With secure data backup and the ability to export reports for tax purposes, the app serves as your dedicated financial advisor. Whether you are saving for a major purchase or simply looking to improve your financial health, ExpenseTracker provides the precision and clarity needed to make smarter, more confident money decisions every single day.",
+    "size": 62,
+    "reviews": 1319,
+    "ratingAvg": 4.5,
+    "downloads": 251929,
+    "ratings": [
+      { "name": "1 star", "count": 92 },
+      { "name": "2 star", "count": 105 },
+      { "name": "3 star", "count": 164 },
+      { "name": "4 star", "count": 329 },
+      { "name": "5 star", "count": 629 }
+    ]
+  },
+  {
+    "image": "https://brandenbodendorfer.com/wp-content/uploads/2024/04/best-free-shareable-planning-app.jpg",
+    "title": "HabitBuilder",
+    "companyName": "RoutineApp",
+    "id": 48,
+    "description": "HabitBuilder is a scientifically-backed wellness application designed to help you transform your life by creating sustainable, positive routines through consistent tracking and motivational coaching. The application allows users to define custom habits—ranging from drinking more water to practicing meditation—and provides a visual landscape of their progress through interactive streaks and achievement badges. HabitBuilder features an intelligent reminder system that learns your schedule, offering gentle nudges at the optimal times to ensure you stay on track. Users can also access a library of professional advice on behavior change and join community challenges to stay inspired alongside fellow builders. With detailed analytics that highlight your most productive days and areas for improvement, the app turns personal growth into an engaging, gamified experience. Whether you are breaking a bad habit or cultivating a new one, HabitBuilder provides the structure and encouragement needed to achieve long-term lifestyle transformation with absolute confidence.",
+    "size": 96,
+    "reviews": 1801,
+    "ratingAvg": 4.7,
+    "downloads": 817654,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 108 },
+      { "name": "3 star", "count": 207 },
+      { "name": "4 star", "count": 486 },
+      { "name": "5 star", "count": 910 }
+    ]
+  },
+  {
+    "image": "https://c0.wallpaperflare.com/preview/24/729/309/solved-3x3-rubik-s-cube.jpg",
+    "title": "QuizGame",
+    "companyName": "KnowTest",
+    "id": 49,
+    "description": "QuizGame is the ultimate intellectual playground designed for trivia enthusiasts who want to test their knowledge across a vast array of subjects, from history and science to pop culture and sports. The application features thousands of professionally curated questions, ensuring a fresh and challenging experience every time you play. Users can compete in real-time against friends or join global tournaments to climb the leaderboards and earn exclusive titles. QuizGame offers a variety of play modes, including rapid-fire rounds for quick sessions and deep-dive thematic quizzes for true subject matter experts. The app’s adaptive difficulty engine ensures that the challenge remains engaging as your skills improve. With its vibrant interface, detailed performance statistics, and the ability to contribute your own questions to the community, QuizGame is more than just a game—it’s a dynamic learning platform that makes expanding your knowledge base fun, social, and endlessly rewarding.",
+    "size": 35,
+    "reviews": 1877,
+    "ratingAvg": 4.6,
+    "downloads": 649442,
+    "ratings": [
+      { "name": "1 star", "count": 79 },
+      { "name": "2 star", "count": 92 },
+      { "name": "3 star", "count": 158 },
+      { "name": "4 star", "count": 343 },
+      { "name": "5 star", "count": 649 }
+    ]
+  },
+  {
+    "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvbnMxMTc4MS1pbWFnZS1rd3Z5ZGoxdS5qcGc.jpg",
+    "title": "RemoteControl",
+    "companyName": "DeviceLink",
+    "id": 50,
+    "description": "RemoteControl by DeviceLink is a sophisticated universal controller application designed to consolidate your digital life by allowing you to manage multiple home appliances and smart devices directly from your smartphone. Utilizing both Wi-Fi and IR technology, the application supports thousands of models from major brands, including televisions, air conditioners, sound systems, and smart lighting. RemoteControl features a customizable dashboard where you can create 'scenes' to trigger multiple actions with a single tap, such as dimming the lights and starting your home theater system. The app also includes advanced voice command integration, allowing for hands-free operation. With its fast setup process and intuitive interface, RemoteControl eliminates the clutter of physical remotes and provides the convenience of a smart home hub in the palm of your hand. Whether you're relaxing on the couch or managing your home from another room, DeviceLink ensures your environment is always perfectly under your control.",
+    "size": 63,
+    "reviews": 2998,
+    "ratingAvg": 4.8,
+    "downloads": 557628,
+    "ratings": [
+      { "name": "1 star", "count": 119 },
+      { "name": "2 star", "count": 149 },
+      { "name": "3 star", "count": 329 },
+      { "name": "4 star", "count": 839 },
+      { "name": "5 star", "count": 1562 }
+    ]
+  },
+  {
+    "image": "https://tradersunion.com/uploads/articles/403753/trust-wallet.jpeg",
+    "title": "CryptoWallet",
+    "companyName": "SecureCoin",
+    "id": 51,
+    "description": "CryptoWallet is a premier non-custodial digital asset manager designed to provide users with absolute control over their cryptocurrencies through a high-security, user-friendly interface. The application supports a wide range of blockchain networks, allowing you to store, send, and receive thousands of tokens and NFTs with ease. CryptoWallet prioritizes your privacy with a zero-knowledge architecture, meaning your private keys never leave your device and only you have access to your funds. The app features integrated decentralized exchange (DEX) support for instant token swaps and a built-in Web3 browser to explore the world of decentralized finance (DeFi) safely. With real-time market data, price alerts, and detailed transaction histories, CryptoWallet provides all the tools needed for both beginners and experienced investors to navigate the crypto landscape confidently. Protected by biometric authentication and secure seed phrase management, it is the ultimate vault for your digital wealth in the modern financial age.",
+    "size": 63,
+    "reviews": 1002,
+    "ratingAvg": 4.1,
+    "downloads": 213426,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 145 },
+      { "name": "4 star", "count": 210 },
+      { "name": "5 star", "count": 417 }
+    ]
+  },
+  {
+    "image": "https://cdn.iconscout.com/icon-pack/preview-mockup/free-social-media-icons-logo-icon-pack-svg-download-png-35340.png",
+    "title": "ARViewer",
+    "companyName": "AugReality",
+    "id": 52,
+    "description": "ARViewer is a cutting-edge augmented reality platform designed to bring digital content into the physical world through a high-fidelity, interactive mobile experience. The application allows users to visualize 3D models, complex animations, and educational data overlays in their real-world environment with incredible stability and precision. From trying out furniture in your living room before purchasing to exploring the inner workings of a human heart through interactive anatomical models, ARViewer provides a diverse range of experiences for both retail and education. The platform includes a robust content creator tool, allowing users to upload their own AR assets and share them with the community. With its fast tracking engine, realistic lighting effects, and seamless social sharing options, ARViewer is more than just a viewer—it’s a window into the future of digital interaction, providing a powerful way to merge imagination with reality for entertainment, learning, and professional design.",
+    "size": 50,
+    "reviews": 2688,
+    "ratingAvg": 4.3,
+    "downloads": 1080576,
+    "ratings": [
+      { "name": "1 star", "count": 241 },
+      { "name": "2 star", "count": 268 },
+      { "name": "3 star", "count": 362 },
+      { "name": "4 star", "count": 618 },
+      { "name": "5 star", "count": 1199 }
+    ]
+  },
+  {
+    "image": "https://s3.mordorintelligence.com/europe-vr-market/europe-vr-market-1765793861770-major-players.webp",
+    "title": "VRWorld",
+    "companyName": "VirtualHub",
+    "id": 53,
+    "description": "VRWorld is a gateway to immersive virtual experiences, providing users with a curated library of high-quality 360-degree videos, interactive games, and educational simulations that can be enjoyed with or without a dedicated headset. The application utilizes advanced motion-tracking algorithms to provide a fluid and realistic viewing experience that reacts to your every movement. VRWorld features a diverse range of content, from virtual tours of famous historical landmarks to high-octane simulations of deep-sea exploration and space travel. Users can customize their virtual environment, join social spaces to watch content with friends, and even create their own simple VR scenes using integrated tools. With its performance-optimized engine and support for a variety of mobile VR hardware, VRWorld provides a professional-grade entry point into the metaverse, making it possible for anyone to explore distant worlds and engage in unique interactive stories from the comfort of their own home.",
+    "size": 32,
+    "reviews": 1416,
+    "ratingAvg": 4.2,
+    "downloads": 672600,
+    "ratings": [
+      { "name": "1 star", "count": 141 },
+      { "name": "2 star", "count": 155 },
+      { "name": "3 star", "count": 198 },
+      { "name": "4 star", "count": 311 },
+      { "name": "5 star", "count": 611 }
+    ]
+  },
+  {
+    "image": "https://lapelvet.com/wp-content/uploads/2021/09/This-isn_t-a-chew-toy-454435997_4203x2802-scaled.jpeg",
+    "title": "PetCare",
+    "companyName": "AnimalFriend",
+    "id": 54,
+    "description": "PetCare is an all-in-one health and lifestyle manager designed to help pet owners provide the highest level of care for their animal companions through comprehensive tracking and expert guidance. The application offers a unified space to manage vaccination records, medical histories, and grooming schedules, ensuring your pet’s essential needs are always met. PetCare features an intelligent health tracker that allows you to monitor weight, diet, and exercise levels, providing alerts for potential health issues based on breed-specific data. Users can also access a library of professional training videos, nutritional advice, and an integrated map of local pet-friendly parks and 24/7 veterinary clinics. With the ability to share profiles with family members or pet siters, the app ensures everyone is aligned on your pet’s routine. Whether you are managing a single dog or a diverse menagerie, PetCare provides the tools and clarity needed to ensure your pets lead happy, healthy, and fulfilling lives.",
+    "size": 43,
+    "reviews": 2954,
+    "ratingAvg": 4.0,
+    "downloads": 1447460,
+    "ratings": [
+      { "name": "1 star", "count": 354 },
+      { "name": "2 star", "count": 384 },
+      { "name": "3 star", "count": 443 },
+      { "name": "4 star", "count": 590 },
+      { "name": "5 star", "count": 1183 }
+    ]
+  },
+  {
+    "image": "https://cdn.creazilla.com/cliparts/36797/gardening-supplies-clipart-xl.png",
+    "title": "GardeningApp",
+    "companyName": "GreenThumb",
+    "id": 55,
+    "description": "GardeningApp is the definitive companion for plant enthusiasts, providing a wealth of botanical knowledge and practical care tools to help your indoor and outdoor gardens thrive. The application features a massive plant database where you can identify species through your camera and receive personalized care instructions for watering, sunlight, and fertilization. GardeningApp includes an intelligent task manager that sets reminders based on local weather patterns and specific plant needs, ensuring your greenery is never neglected. Users can also access a vibrant community forum to share tips, troubleshoot common plant diseases, and showcase their garden’s progress. With its integrated planting calendar and expert-led tutorials on everything from soil health to pest control, the app empowers both beginners and master gardeners to cultivate their green space with professional precision. Whether you are growing your own vegetables or managing a houseplant collection, GardeningApp provides the clarity and inspiration needed for a successful gardening journey.",
+    "size": 28,
+    "reviews": 1978,
+    "ratingAvg": 4.3,
+    "downloads": 241316,
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 197 },
+      { "name": "3 star", "count": 267 },
+      { "name": "4 star", "count": 454 },
+      { "name": "5 star", "count": 882 }
+    ]
+  },
+  {
+    "image": "https://miro.medium.com/v2/resize:fit:1400/0*V6FATLDx9fJYLmZt.jpg",
+    "title": "Astronomy",
+    "companyName": "StarGaze",
+    "id": 56,
+    "description": "Astronomy by StarGaze is a powerful celestial exploration tool designed to bring the beauty of the cosmos directly to your device through high-definition star maps and real-time astronomical data. The application utilizes your device’s GPS and sensors to identify stars, planets, constellations, and satellites simply by pointing your phone at the sky. Astronomy features a massive database of deep-space objects, providing detailed information about galaxies, nebulae, and far-off stellar clusters. Users can also track upcoming celestial events like meteor showers and eclipses, with personalized notifications to ensure they never miss a rare cosmic occurrence. The app includes a night mode for stargazing, stunning 3D visualizations, and educational content on the history of space exploration. Whether you are a dedicated amateur astronomer or a curious stargazer, the app provides the precision and depth required to explore the universe and understand our place among the stars.",
+    "size": 75,
+    "reviews": 2022,
+    "ratingAvg": 4.9,
+    "downloads": 535830,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 212 },
+      { "name": "4 star", "count": 586 },
+      { "name": "5 star", "count": 1084 }
+    ]
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/5fe9eca58d20536a3fc0253a/5d3bc60f-4dc9-440e-9490-43495333f97a/Faulu+the+leopard%2C+with+a+Topi+kill+-+Maasai+Mara-3.jpg",
+    "title": "CookingTimer",
+    "companyName": "ChefAid",
+    "id": 57,
+    "description": "CookingTimer is a specialized culinary utility designed to help home cooks and professional chefs manage complex multi-step meals with surgical precision through an intuitive and versatile timing interface. The application allows users to run multiple independent timers simultaneously, making it easy to track different dishes as they roast, simmer, or bake. CookingTimer features a massive library of conversion tools for weights, volumes, and temperatures, ensuring your recipes are always accurate regardless of the source. The app also includes specialized timers for common techniques like poaching eggs or resting steaks, with built-in expert advice on optimal cooking times for different proteins. With its loud, customizable alerts and a clean interface that stays active even with wet hands, the app is a reliable partner in any busy kitchen. Whether you’re preparing a simple weeknight dinner or a complex holiday feast, CookingTimer provides the precision and organization needed for consistent culinary success.",
+    "size": 97,
+    "reviews": 732,
+    "ratingAvg": 4.2,
+    "downloads": 248880,
+    "ratings": [
+      { "name": "1 star", "count": 73 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 102 },
+      { "name": "4 star", "count": 161 },
+      { "name": "5 star", "count": 316 }
+    ]
+  },
+  {
+    "image": "https://s3.mordorintelligence.com/gps-bike-computers-market/gps-bike-computers-market-1716376157068-Major-Players.webp",
+    "title": "BikeTracker",
+    "companyName": "CyclePro",
+    "id": 58,
+    "description": "BikeTracker is a high-performance cycling companion designed to provide cyclists of all levels with detailed route planning, real-time performance tracking, and deep analytical insights into their rides. The application utilizes high-precision GPS to map your journeys, providing live data on speed, elevation, and distance while you ride. BikeTracker features a robust route discovery engine where you can find popular local paths or create your own custom loops based on difficulty and surface type. The platform integrates with external heart-rate monitors and power meters, providing professional-grade metrics for serious athletes training for their next race. Users can also join global challenges, share their rides with a community of fellow cyclists, and utilize the app's safety features like real-time location sharing. Whether you are commuting to work or tackling a mountain trail, BikeTracker provides the accuracy and features needed to enhance your cycling experience and achieve your physical goals with confidence.",
+    "size": 29,
+    "reviews": 1039,
+    "ratingAvg": 4.6,
+    "downloads": 443653,
+    "ratings": [
+      { "name": "1 star", "count": 62 },
+      { "name": "2 star", "count": 72 },
+      { "name": "3 star", "count": 124 },
+      { "name": "4 star", "count": 270 },
+      { "name": "5 star", "count": 511 }
+    ]
+  },
+  {
+    "image": "https://aqua-cloud.io/wp-content/uploads/2025/10/uc-2",
+    "title": "RunningCoach",
+    "companyName": "RunFit",
+    "id": 59,
+    "description": "RunningCoach is a comprehensive training platform designed to help runners achieve their personal best through data-driven plans, real-time audio coaching, and advanced biometric tracking. Whether you are training for your first 5K or looking to shave minutes off your marathon time, the application provides personalized training schedules that adapt based on your current fitness level and progress. RunningCoach features live GPS tracking, providing instant feedback on pace and cadence, while the integrated 'AI Coach' offers motivational cues and form tips during your run. The app includes a deep analytics dashboard where you can visualize your progress over time, track shoe mileage to prevent injuries, and analyze your heart-rate zones for optimal training. With social sharing features and global community challenges, RunningCoach provides the structure, expertise, and community support needed to transform your running performance and maintain long-term athletic health with absolute precision.",
+    "size": 71,
+    "reviews": 2952,
+    "ratingAvg": 4.0,
+    "downloads": 1198512,
+    "ratings": [
+      { "name": "1 star", "count": 354 },
+      { "name": "2 star", "count": 383 },
+      { "name": "3 star", "count": 442 },
+      { "name": "4 star", "count": 590 },
+      { "name": "5 star", "count": 1183 }
+    ]
+  },
+  {
+    "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMzg5MTQ2LWltYWdlLWt3dnZ6cGxvLmpwZw.jpg",
+    "title": "YogaGuide",
+    "companyName": "PoseMaster",
+    "id": 60,
+    "description": "YogaGuide is a premier digital sanctuary designed to help individuals cultivate a consistent yoga practice and enhance their physical and mental well-being through expertly guided sessions and detailed pose libraries. The application features thousands of high-definition video classes catering to all experience levels, from complete beginners seeking foundational skills to advanced practitioners looking for a challenge. YogaGuide allows you to customize your practice based on your goals, whether you want to improve flexibility, build strength, or find stress relief through restorative flow. The app’s interactive 'Pose Master' feature provides detailed anatomical insights and alignment tips to ensure safety and effectiveness. With integrated meditation sessions, personalized progress tracking, and the ability to download classes for offline use, the app provides the flexibility needed to practice anywhere. Whether you are at home or on the go, YogaGuide provides the professional-grade guidance and inspiration needed to master your flow and find balance in your life.",
+    "size": 21,
+    "reviews": 2535,
+    "ratingAvg": 4.5,
+    "downloads": 750360,
+    "ratings": [
+      { "name": "1 star", "count": 177 },
+      { "name": "2 star", "count": 202 },
+      { "name": "3 star", "count": 316 },
+      { "name": "4 star", "count": 633 },
+      { "name": "5 star", "count": 1207 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Icon-wiki-puzzle.svg",
+    "title": "PuzzleGame",
+    "companyName": "BrainTease",
+    "id": 61,
+    "description": "PuzzleGame is a dynamic cognitive training platform designed to sharpen your mental acuity and provide hours of engaging entertainment through a massive collection of daily puzzles and brain-teasing challenges. The application features a diverse range of game types, including logic grids, word puzzles, number games, and spatial awareness challenges, all designed to target different cognitive functions. PuzzleGame’s adaptive difficulty engine ensures that the puzzles remain challenging as your skills improve, while a detailed progress tracker highlights your strengths and areas for growth. Users can compete in global rankings, participate in thematic events, and unlock achievement badges as they master increasingly complex levels. With its clean, performance-oriented design and a library of content that is updated daily, PuzzleGame is more than just a game—it’s a comprehensive tool for maintaining a sharp and healthy mind. Whether you have five minutes or an hour, the app provides the perfect mental workout for anyone looking to stay cognitively fit.",
+    "size": 95,
+    "reviews": 1677,
+    "ratingAvg": 4.2,
+    "downloads": 662415,
+    "ratings": [
+      { "name": "1 star", "count": 167 },
+      { "name": "2 star", "count": 184 },
+      { "name": "3 star", "count": 234 },
+      { "name": "4 star", "count": 368 },
+      { "name": "5 star", "count": 724 }
+    ]
+  },
+  {
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e3c349bc-5897-4b1a-85a8-02a99880fd42/dcv20s4-cf5817ff-6165-4d43-bcca-7f524f4ecaf5.jpg",
+    "title": "ComicReader",
+    "companyName": "StripView",
+    "id": 62,
+    "description": "ComicReader is the definitive digital platform for comic and graphic novel enthusiasts, providing a high-performance, customizable reading experience for your entire digital collection. The application supports a wide range of formats, including CBZ and CBR, while offering a variety of viewing modes like 'Guided View' to ensure the art and story flow seamlessly. ComicReader features a powerful library manager that allows you to organize your series by publisher, artist, or genre, with integrated metadata fetching for a professional-grade archive. The app’s intelligent syncing engine ensures your bookmarks and reading progress are always up-to-date across all your devices. Users can also access a marketplace of independent titles and join a vibrant community to discuss their favorite issues. With its elegant interface and a focus on visual fidelity, ComicReader turns your device into a portable gallery for your favorite stories. Whether you are a casual fan or a dedicated collector, the app provides the precision and features needed to enjoy your comics with absolute clarity.",
+    "size": 66,
+    "reviews": 1321,
+    "ratingAvg": 4.6,
+    "downloads": 298546,
+    "ratings": [
+      { "name": "1 star", "count": 79 },
+      { "name": "2 star", "count": 92 },
+      { "name": "3 star", "count": 158 },
+      { "name": "4 star", "count": 343 },
+      { "name": "5 star", "count": 649 }
+    ]
   }
-
-
 ]

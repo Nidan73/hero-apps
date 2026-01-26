@@ -5,10 +5,9 @@ import { NavLink ,Link } from 'react-router';
 import './Navbar.css';
 const Navbar = () => {
 
-    const navLinks = <> <NavLink className="text-lg font-semibold"
-                          to='/'>Home</NavLink>
-                        <NavLink to='/allApps'>Apps</NavLink>
-                        <NavLink to='/install'>Installation</NavLink>
+    const navLinks = <> <nav><NavLink to='/'><a>Home</a></NavLink>
+                        <NavLink to='/allApps'><a>Apps</a></NavLink>
+                        <NavLink to='/install'><a>Installation</a></NavLink></nav>
     </>
     return (
         <div>

@@ -1,15 +1,15 @@
-import React from 'react';
+import React, {  useState } from 'react';
 import { useLoaderData, useParams } from 'react-router';
 import downloadimg from '../../assets/icon-downloads.png'
 import ratingimg from '../../assets/icon-ratings.png'
 import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from 'recharts';
+import { addToStoreDB, getStoredId } from '../../Utilities/Utilities';
 const AppsDetail = () => {
     const {id} = useParams()
     const appId = parseInt(id,10)
     const data = useLoaderData()
     const singleApp = data.find(app => app.id === appId)
     const barRating = [...singleApp.ratings].reverse();
-    console.log(barRating)
  
            const formatDownloads = (num) => {
   if (num >= 1000000) {
@@ -28,10 +28,22 @@ const AppsDetail = () => {
                       acc.totalCount += curr.count;
   
                      return acc;
-           }, { totalScore: 0, totalCount: 0 });
+           }, { totalScore: 0, totalCount: 0 }); 
+      const average = totalStats.totalScore / totalStats.totalCount;
+     const [install , setInstall] = useState([])
+    //  const [toggle ,setToggle] = useState(false)
 
-        const average = totalStats.totalScore / totalStats.totalCount;
-
+     
+    
+       const installed = getStoredId();
+       const allStoredId = installed.map(id => parseInt(id,10))
+       const appInstalled = allStoredId.includes(singleApp.id);
+      
+      
+      const handleInstall = (id) => {
+             addToStoreDB(id)
+             setInstall([])
+      }
     return (
         <div className='max-w-550 mx-auto mt-8'>
                     <div>
@@ -63,7 +75,9 @@ const AppsDetail = () => {
                                                </div>
                                            </div>
                                            <div className="card-actions">
-                                             <button className="btn btn-success">Install Now ({singleApp.size} MB)</button>
+                                             <button 
+                                               disabled = {appInstalled}
+                                              onClick={()=>handleInstall(singleApp.id)} className="btn bg-green-300 text-black">{appInstalled ? "Installed" :`Install Now (${singleApp.size} MB)`}</button>
                               </div>
                                  </div>
                              </div>
@@ -71,6 +85,7 @@ const AppsDetail = () => {
                            
                         <div className='barchart mb-25 w-full h-87.5 md:h-112.5'>
                             <h3 className="text-xl font-bold mb-4 mx-14">Ratings</h3>
+                            <div style={{ width: "100%", height: 300 }}>
                                    <ResponsiveContainer width="100%" height="100%">
                                   <BarChart   height={300} data={barRating} layout='vertical' margin={{ left: 20, right: 40 }}>
                                     <XAxis type="number" />
@@ -78,6 +93,7 @@ const AppsDetail = () => {
                                     <Bar dataKey="count" fill="#ff8c1a" radius={[0, 4, 4, 0]} barSize={20} />
                                   </BarChart>
                                 </ResponsiveContainer>
+                                </div>
                         </div>   
                          <div className="divider"></div>
                     <div className='my-20 mx-5'>
