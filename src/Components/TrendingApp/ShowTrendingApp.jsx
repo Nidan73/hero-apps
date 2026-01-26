@@ -27,7 +27,7 @@ const ShowTrendingApp = ({app}) => {
 };
     return (
         <div>
-            <div className="card bg-base-100 md:w-96 shadow-sm ">
+            <div  className="card bg-base-100 md:w-96 shadow-sm ">
                 
                   <figure className='mx-2.5 my-2 bg-gray-100 rounded-2xl bg-gray-100'>
                    <img      className='md:h-40 md:w-50'

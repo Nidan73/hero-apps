@@ -9,6 +9,7 @@ const Home = () => {
         <div>
             <Hero></Hero>
             <TrendingApp data={data}></TrendingApp>
+            
         </div>
     );
 };

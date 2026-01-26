@@ -1,11 +1,14 @@
 import React from 'react';
 import logo from '../../assets/logo.png';
 import github from '../../assets/github.png'
+import { NavLink } from 'react-router';
+import './Navbar.css';
 const Navbar = () => {
 
-    const navLinks = <><li><a>Home</a></li>
-        <li><a>Apps</a></li>
-        <li><a>Installation</a></li>
+    const navLinks = <> <NavLink className="text-lg font-semibold"
+                          to='/'>Home</NavLink>
+                        <NavLink to='/allApps'>Apps</NavLink>
+                        <NavLink to='/install'>Installation</NavLink>
     </>
     return (
         <div>
