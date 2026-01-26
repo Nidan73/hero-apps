@@ -214,5 +214,905 @@
       { "name": "4 star", "count": 220 },
       { "name": "5 star", "count": 340 }
     ]
+  },
+  {
+    "image": "https://cdn.iconscout.com/icon-pack/preview-mockup/free-weather-icons-icon-pack-svg-download-png-8769.png",
+    "title": "WeatherPro",
+    "companyName": "ClimateCorp",
+    "id": 13,
+    "description": "Real-time weather updates and forecasts.",
+    "size": 31,
+    "reviews": 2815,
+    "ratingAvg": 4.1,
+    "downloads": 858575,
+    "ratings": [
+      { "name": "1 star", "count": 309 },
+      { "name": "2 star", "count": 337 },
+      { "name": "3 star", "count": 408 },
+      { "name": "4 star", "count": 591 },
+      { "name": "5 star", "count": 1170 }
+    ]
+  },
+  {
+    "image": "https://brandenbodendorfer.com/wp-content/uploads/2024/06/nebo-app-overview-guide.jpg",
+    "title": "PhotoEdit",
+    "companyName": "ImageMasters",
+    "id": 14,
+    "description": "Professional photo editing tools.",
+    "size": 65,
+    "reviews": 1954,
+    "ratingAvg": 4.4,
+    "downloads": 765968,
+    "ratings": [
+      { "name": "1 star", "count": 156 },
+      { "name": "2 star", "count": 175 },
+      { "name": "3 star", "count": 254 },
+      { "name": "4 star", "count": 468 },
+      { "name": "5 star", "count": 901 }
+    ]
+  },
+  {
+    "image": "https://freerangestock.com/sample/81279/video-layout.jpg",
+    "title": "VideoMaker",
+    "companyName": "FilmStudio",
+    "id": 15,
+    "description": "Easy video creation and editing.",
+    "size": 26,
+    "reviews": 993,
+    "ratingAvg": 4.9,
+    "downloads": 368403,
+    "ratings": [
+      { "name": "1 star", "count": 29 },
+      { "name": "2 star", "count": 39 },
+      { "name": "3 star", "count": 104 },
+      { "name": "4 star", "count": 287 },
+      { "name": "5 star", "count": 534 }
+    ]
+  },
+  {
+    "image": "https://i1.pickpik.com/photos/260/556/929/technology-social-media-technology-preview.jpg",
+    "title": "SocialHub",
+    "companyName": "ConnectNet",
+    "id": 16,
+    "description": "All-in-one social media manager.",
+    "size": 69,
+    "reviews": 1558,
+    "ratingAvg": 4.3,
+    "downloads": 553090,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 155 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 358 },
+      { "name": "5 star", "count": 695 }
+    ]
+  },
+  {
+    "image": "https://s3.mordorintelligence.com/global-subscription-based-gaming-market/global-subscription-based-gaming-market-1713269329705-Subscription-Based-Gaming-Market-ML.webp",
+    "title": "GameZone",
+    "companyName": "PlayWorld",
+    "id": 17,
+    "description": "Discover and play mobile games.",
+    "size": 33,
+    "reviews": 877,
+    "ratingAvg": 4.2,
+    "downloads": 330629,
+    "ratings": [
+      { "name": "1 star", "count": 87 },
+      { "name": "2 star", "count": 96 },
+      { "name": "3 star", "count": 122 },
+      { "name": "4 star", "count": 192 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "https://openclipart.org/download/250668/Icones.svg",
+    "title": "RecipeBook",
+    "companyName": "CookEasy",
+    "id": 18,
+    "description": "Thousands of recipes and meal plans.",
+    "size": 29,
+    "reviews": 1871,
+    "ratingAvg": 4.8,
+    "downloads": 849434,
+    "ratings": [
+      { "name": "1 star", "count": 74 },
+      { "name": "2 star", "count": 93 },
+      { "name": "3 star", "count": 205 },
+      { "name": "4 star", "count": 523 },
+      { "name": "5 star", "count": 976 }
+    ]
+  },
+  {
+    "image": "https://s3.mordorintelligence.com/online-language-learning-market/online-language-learning-market-1750156121502-major-players.webp",
+    "title": "LanguageLearn",
+    "companyName": "LinguaApp",
+    "id": 19,
+    "description": "Learn new languages interactively.",
+    "size": 30,
+    "reviews": 2353,
+    "ratingAvg": 4.9,
+    "downloads": 517660,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 94 },
+      { "name": "3 star", "count": 247 },
+      { "name": "4 star", "count": 682 },
+      { "name": "5 star", "count": 1260 }
+    ]
+  },
+  {
+    "image": "https://cdni.iconscout.com/illustration/free/thumb/free-relaxing-mind-illustration-svg-download-png-1749566.png",
+    "title": "MeditationGuide",
+    "companyName": "ZenMind",
+    "id": 20,
+    "description": "Guided meditations for relaxation.",
+    "size": 46,
+    "reviews": 2676,
+    "ratingAvg": 4.0,
+    "downloads": 936600,
+    "ratings": [
+      { "name": "1 star", "count": 321 },
+      { "name": "2 star", "count": 347 },
+      { "name": "3 star", "count": 401 },
+      { "name": "4 star", "count": 535 },
+      { "name": "5 star", "count": 1072 }
+    ]
+  },
+  {
+    "image": "https://marketcentralhub.com/wp-content/uploads/2021/09/Ebook-image-1024x576.jpg",
+    "title": "BookReader",
+    "companyName": "LitLibrary",
+    "id": 21,
+    "description": "E-book reader with vast library.",
+    "size": 65,
+    "reviews": 2341,
+    "ratingAvg": 4.1,
+    "downloads": 786576,
+    "ratings": [
+      { "name": "1 star", "count": 257 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 339 },
+      { "name": "4 star", "count": 491 },
+      { "name": "5 star", "count": 974 }
+    ]
+  },
+  {
+    "image": "https://s3.mordorintelligence.com/podcast-market/podcast-market-1752155768658-major-players.webp",
+    "title": "PodcastPlayer",
+    "companyName": "AudioCast",
+    "id": 22,
+    "description": "Listen to podcasts on the go.",
+    "size": 69,
+    "reviews": 1012,
+    "ratingAvg": 4.3,
+    "downloads": 342056,
+    "ratings": [
+      { "name": "1 star", "count": 91 },
+      { "name": "2 star", "count": 101 },
+      { "name": "3 star", "count": 136 },
+      { "name": "4 star", "count": 232 },
+      { "name": "5 star", "count": 452 }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/5444631/pexels-photo-5444631.jpeg",
+    "title": "MapNavigator",
+    "companyName": "GeoGuide",
+    "id": 23,
+    "description": "Offline maps and navigation.",
+    "size": 98,
+    "reviews": 2907,
+    "ratingAvg": 4.4,
+    "downloads": 392445,
+    "ratings": [
+      { "name": "1 star", "count": 232 },
+      { "name": "2 star", "count": 261 },
+      { "name": "3 star", "count": 377 },
+      { "name": "4 star", "count": 697 },
+      { "name": "5 star", "count": 1340 }
+    ]
+  },
+  {
+    "image": "https://s.cystack.net/resource/home/content/08100042/local-cloud-2.png",
+    "title": "PasswordSafe",
+    "companyName": "SecureVault",
+    "id": 24,
+    "description": "Manage passwords securely.",
+    "size": 79,
+    "reviews": 2051,
+    "ratingAvg": 4.2,
+    "downloads": 412251,
+    "ratings": [
+      { "name": "1 star", "count": 205 },
+      { "name": "2 star", "count": 225 },
+      { "name": "3 star", "count": 287 },
+      { "name": "4 star", "count": 451 },
+      { "name": "5 star", "count": 883 }
+    ]
+  },
+  {
+    "image": "https://www.cloudxdpo.com/hubfs/Eliminating-Payment-Delays-The-Case-for-Automating-Accounts-Payable-in-Your-Dealership-B9.png",
+    "title": "CalendarPlus",
+    "companyName": "EventMaster",
+    "id": 25,
+    "description": "Advanced calendar and reminders.",
+    "size": 49,
+    "reviews": 2073,
+    "ratingAvg": 4.1,
+    "downloads": 796032,
+    "ratings": [
+      { "name": "1 star", "count": 228 },
+      { "name": "2 star", "count": 248 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 435 },
+      { "name": "5 star", "count": 862 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bulut_icon.svg",
+    "title": "ScannerApp",
+    "companyName": "DocScan",
+    "id": 26,
+    "description": "Scan documents with your phone.",
+    "size": 59,
+    "reviews": 2009,
+    "ratingAvg": 4.1,
+    "downloads": 293314,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 241 },
+      { "name": "3 star", "count": 291 },
+      { "name": "4 star", "count": 421 },
+      { "name": "5 star", "count": 836 }
+    ]
+  },
+  {
+    "image": "https://cdn.sparrowcode.io/tutorials/sf-symbols-and-render-mode/palette-render.jpg",
+    "title": "Translator",
+    "companyName": "LangTrans",
+    "id": 27,
+    "description": "Real-time language translation.",
+    "size": 24,
+    "reviews": 1571,
+    "ratingAvg": 4.4,
+    "downloads": 425741,
+    "ratings": [
+      { "name": "1 star", "count": 125 },
+      { "name": "2 star", "count": 141 },
+      { "name": "3 star", "count": 204 },
+      { "name": "4 star", "count": 377 },
+      { "name": "5 star", "count": 724 }
+    ]
+  },
+  {
+    "image": "https://www.tradingsim.com/hubfs/Imported_Blog_Media/PaperTradingApps-2.png",
+    "title": "StockTracker",
+    "companyName": "InvestWise",
+    "id": 28,
+    "description": "Monitor stock markets and portfolios.",
+    "size": 89,
+    "reviews": 1734,
+    "ratingAvg": 4.0,
+    "downloads": 563550,
+    "ratings": [
+      { "name": "1 star", "count": 208 },
+      { "name": "2 star", "count": 225 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 346 },
+      { "name": "5 star", "count": 695 }
+    ]
+  },
+  {
+    "image": "https://cdn.iconscout.com/icon-pack/preview-mockup/free-apple-watch-icon-pack-svg-download-png-23276.png",
+    "title": "WorkoutPlanner",
+    "companyName": "FitPlan",
+    "id": 29,
+    "description": "Custom workout plans and tracking.",
+    "size": 88,
+    "reviews": 678,
+    "ratingAvg": 4.2,
+    "downloads": 96276,
+    "ratings": [
+      { "name": "1 star", "count": 67 },
+      { "name": "2 star", "count": 74 },
+      { "name": "3 star", "count": 94 },
+      { "name": "4 star", "count": 149 },
+      { "name": "5 star", "count": 294 }
+    ]
+  },
+  {
+    "image": "https://bodylabstudios.com/wp-content/uploads/2025/08/Blue-light-when-to-use-1024x683.png",
+    "title": "SleepTracker",
+    "companyName": "RestWell",
+    "id": 30,
+    "description": "Monitor sleep patterns and tips.",
+    "size": 77,
+    "reviews": 904,
+    "ratingAvg": 4.1,
+    "downloads": 184416,
+    "ratings": [
+      { "name": "1 star", "count": 99 },
+      { "name": "2 star", "count": 108 },
+      { "name": "3 star", "count": 131 },
+      { "name": "4 star", "count": 189 },
+      { "name": "5 star", "count": 377 }
+    ]
+  },
+  {
+    "image": "https://brandenbodendorfer.com/wp-content/uploads/2024/06/noteshelf-app-guide.jpg",
+    "title": "JournalApp",
+    "companyName": "DailyWrite",
+    "id": 31,
+    "description": "Digital journaling and mood tracking.",
+    "size": 31,
+    "reviews": 1806,
+    "ratingAvg": 4.8,
+    "downloads": 370230,
+    "ratings": [
+      { "name": "1 star", "count": 72 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 198 },
+      { "name": "4 star", "count": 505 },
+      { "name": "5 star", "count": 941 }
+    ]
+  },
+  {
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*nDnSNncUWaxAnErl4Nm70Q.jpeg",
+    "title": "QRCodeGen",
+    "companyName": "CodeMaker",
+    "id": 32,
+    "description": "Generate and scan QR codes.",
+    "size": 87,
+    "reviews": 1845,
+    "ratingAvg": 4.2,
+    "downloads": 557190,
+    "ratings": [
+      { "name": "1 star", "count": 184 },
+      { "name": "2 star", "count": 202 },
+      { "name": "3 star", "count": 258 },
+      { "name": "4 star", "count": 405 },
+      { "name": "5 star", "count": 796 }
+    ]
+  },
+  {
+    "image": "https://www.soft8soft.com/docs/files/app-manager/app-manager-app-settings-pwa.webp",
+    "title": "UnitConverter",
+    "companyName": "MeasurePro",
+    "id": 33,
+    "description": "Convert units easily.",
+    "size": 74,
+    "reviews": 1833,
+    "ratingAvg": 4.3,
+    "downloads": 672711,
+    "ratings": [
+      { "name": "1 star", "count": 164 },
+      { "name": "2 star", "count": 183 },
+      { "name": "3 star", "count": 247 },
+      { "name": "4 star", "count": 421 },
+      { "name": "5 star", "count": 818 }
+    ]
+  },
+  {
+    "image": "https://cdn.creazilla.com/cliparts/22536/torch-clipart-xl.png",
+    "title": "Flashlight",
+    "companyName": "BrightLight",
+    "id": 34,
+    "description": "Simple flashlight app.",
+    "size": 64,
+    "reviews": 2874,
+    "ratingAvg": 4.2,
+    "downloads": 796098,
+    "ratings": [
+      { "name": "1 star", "count": 287 },
+      { "name": "2 star", "count": 316 },
+      { "name": "3 star", "count": 402 },
+      { "name": "4 star", "count": 632 },
+      { "name": "5 star", "count": 1237 }
+    ]
+  },
+  {
+    "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMDIxOTUzLWltYWdlLWt3eXJpaTJ4LmpwZw.jpg",
+    "title": "CalculatorPro",
+    "companyName": "MathCalc",
+    "id": 35,
+    "description": "Advanced scientific calculator.",
+    "size": 44,
+    "reviews": 1061,
+    "ratingAvg": 4.7,
+    "downloads": 206895,
+    "ratings": [
+      { "name": "1 star", "count": 53 },
+      { "name": "2 star", "count": 63 },
+      { "name": "3 star", "count": 122 },
+      { "name": "4 star", "count": 286 },
+      { "name": "5 star", "count": 537 }
+    ]
+  },
+  {
+    "image": "https://skyswitch.com/wp-content/uploads/2025/05/SkySwitch-UC-Client-Key-Features-Image-01-1-1-scaled.jpg",
+    "title": "VoiceRecorder",
+    "companyName": "AudioNote",
+    "id": 36,
+    "description": "Record voice memos.",
+    "size": 44,
+    "reviews": 2069,
+    "ratingAvg": 4.7,
+    "downloads": 825531,
+    "ratings": [
+      { "name": "1 star", "count": 103 },
+      { "name": "2 star", "count": 124 },
+      { "name": "3 star", "count": 237 },
+      { "name": "4 star", "count": 558 },
+      { "name": "5 star", "count": 1047 }
+    ]
+  },
+  {
+    "image": "https://www.ctrl.blog/media/hero/windows-openwith-default-program.png",
+    "title": "FileManager",
+    "companyName": "StoragePro",
+    "id": 37,
+    "description": "Manage files on your device.",
+    "size": 72,
+    "reviews": 1323,
+    "ratingAvg": 4.5,
+    "downloads": 325458,
+    "ratings": [
+      { "name": "1 star", "count": 92 },
+      { "name": "2 star", "count": 105 },
+      { "name": "3 star", "count": 165 },
+      { "name": "4 star", "count": 330 },
+      { "name": "5 star", "count": 631 }
+    ]
+  },
+  {
+    "image": "https://p1.hippopx.com/preview/469/904/899/vpn-personal-data-personal-security-cyber-attacks-hacking-malware.jpg",
+    "title": "VPNSecure",
+    "companyName": "NetShield",
+    "id": 38,
+    "description": "Secure VPN for privacy.",
+    "size": 31,
+    "reviews": 856,
+    "ratingAvg": 4.4,
+    "downloads": 154936,
+    "ratings": [
+      { "name": "1 star", "count": 68 },
+      { "name": "2 star", "count": 77 },
+      { "name": "3 star", "count": 111 },
+      { "name": "4 star", "count": 205 },
+      { "name": "5 star", "count": 395 }
+    ]
+  },
+  {
+    "image": "https://www.ctrl.blog/media/hero/safari-default-media-player-icons-missing.jpeg",
+    "title": "BrowserFast",
+    "companyName": "WebSurf",
+    "id": 39,
+    "description": "Fast and private web browser.",
+    "size": 70,
+    "reviews": 2235,
+    "ratingAvg": 4.8,
+    "downloads": 1115265,
+    "ratings": [
+      { "name": "1 star", "count": 89 },
+      { "name": "2 star", "count": 111 },
+      { "name": "3 star", "count": 245 },
+      { "name": "4 star", "count": 625 },
+      { "name": "5 star", "count": 1165 }
+    ]
+  },
+  {
+    "image": "https://cdn.creazilla.com/cliparts/7929184/email-icon-clipart-xl.png",
+    "title": "EmailClient",
+    "companyName": "MailBox",
+    "id": 40,
+    "description": "Manage multiple email accounts.",
+    "size": 60,
+    "reviews": 2657,
+    "ratingAvg": 4.1,
+    "downloads": 1012317,
+    "ratings": [
+      { "name": "1 star", "count": 292 },
+      { "name": "2 star", "count": 318 },
+      { "name": "3 star", "count": 385 },
+      { "name": "4 star", "count": 557 },
+      { "name": "5 star", "count": 1105 }
+    ]
+  },
+  {
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/007b4a6d-3b0b-4043-8816-d1a9155d1841/d4nl129-34c9a0a6-4ec6-41f1-b4d3-32f70cffcd41.png",
+    "title": "CameraPro",
+    "companyName": "SnapShot",
+    "id": 41,
+    "description": "Enhanced camera features.",
+    "size": 74,
+    "reviews": 1786,
+    "ratingAvg": 4.2,
+    "downloads": 653676,
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 196 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 392 },
+      { "name": "5 star", "count": 770 }
+    ]
+  },
+  {
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/5ee26243-71ce-4630-b9af-3ebe395598a5/deas0bz-81db867e-7eb3-4735-bab7-088de5d3a09a.jpg",
+    "title": "GalleryView",
+    "companyName": "PhotoVault",
+    "id": 42,
+    "description": "Organize and secure photos.",
+    "size": 47,
+    "reviews": 1119,
+    "ratingAvg": 4.9,
+    "downloads": 387174,
+    "ratings": [
+      { "name": "1 star", "count": 33 },
+      { "name": "2 star", "count": 44 },
+      { "name": "3 star", "count": 117 },
+      { "name": "4 star", "count": 324 },
+      { "name": "5 star", "count": 601 }
+    ]
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/6657203d31396fc757dfafcc/67112ba53bfd7ed6971ca622_66fc316cc050c7c59b43c25e_How-to-Connect-TikTok-to-Apple-Music-on-iPhone-and-iPad.jpeg",
+    "title": "MusicMaker",
+    "companyName": "BeatStudio",
+    "id": 43,
+    "description": "Create music tracks.",
+    "size": 56,
+    "reviews": 2169,
+    "ratingAvg": 4.7,
+    "downloads": 809037,
+    "ratings": [
+      { "name": "1 star", "count": 108 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 249 },
+      { "name": "4 star", "count": 585 },
+      { "name": "5 star", "count": 1097 }
+    ]
+  },
+  {
+    "image": "https://iprx-cms-content.ams1.vultrobjects.com/photo_2023_04_18_18_17_46_7e973240c8.jpeg",
+    "title": "DrawingApp",
+    "companyName": "ArtPad",
+    "id": 44,
+    "description": "Digital drawing and sketching.",
+    "size": 33,
+    "reviews": 2607,
+    "ratingAvg": 4.9,
+    "downloads": 273735,
+    "ratings": [
+      { "name": "1 star", "count": 78 },
+      { "name": "2 star", "count": 104 },
+      { "name": "3 star", "count": 273 },
+      { "name": "4 star", "count": 756 },
+      { "name": "5 star", "count": 1396 }
+    ]
+  },
+  {
+    "image": "https://p0.piqsels.com/preview/644/984/936/newsletter-news-app-article.jpg",
+    "title": "NewsReader",
+    "companyName": "InfoFeed",
+    "id": 45,
+    "description": "Personalized news feed.",
+    "size": 81,
+    "reviews": 2230,
+    "ratingAvg": 4.5,
+    "downloads": 419240,
+    "ratings": [
+      { "name": "1 star", "count": 156 },
+      { "name": "2 star", "count": 178 },
+      { "name": "3 star", "count": 278 },
+      { "name": "4 star", "count": 557 },
+      { "name": "5 star", "count": 1061 }
+    ]
+  },
+  {
+    "image": "https://www.ctrl.blog/media/hero/joplin.png",
+    "title": "TodoList",
+    "companyName": "TaskMaster",
+    "id": 46,
+    "description": "Simple to-do list manager.",
+    "size": 20,
+    "reviews": 1367,
+    "ratingAvg": 4.4,
+    "downloads": 183178,
+    "ratings": [
+      { "name": "1 star", "count": 109 },
+      { "name": "2 star", "count": 123 },
+      { "name": "3 star", "count": 177 },
+      { "name": "4 star", "count": 328 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "image": "https://brandenbodendorfer.com/wp-content/uploads/2024/06/switch-to-a-digital-daily-planner.jpg",
+    "title": "ExpenseTracker",
+    "companyName": "BudgetPro",
+    "id": 47,
+    "description": "Track daily expenses.",
+    "size": 62,
+    "reviews": 1319,
+    "ratingAvg": 4.5,
+    "downloads": 251929,
+    "ratings": [
+      { "name": "1 star", "count": 92 },
+      { "name": "2 star", "count": 105 },
+      { "name": "3 star", "count": 164 },
+      { "name": "4 star", "count": 329 },
+      { "name": "5 star", "count": 629 }
+    ]
+  },
+  {
+    "image": "https://brandenbodendorfer.com/wp-content/uploads/2024/04/best-free-shareable-planning-app.jpg",
+    "title": "HabitBuilder",
+    "companyName": "RoutineApp",
+    "id": 48,
+    "description": "Build good habits.",
+    "size": 96,
+    "reviews": 1801,
+    "ratingAvg": 4.7,
+    "downloads": 817654,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 108 },
+      { "name": "3 star", "count": 207 },
+      { "name": "4 star", "count": 486 },
+      { "name": "5 star", "count": 910 }
+    ]
+  },
+  {
+    "image": "https://c0.wallpaperflare.com/preview/24/729/309/solved-3x3-rubik-s-cube.jpg",
+    "title": "QuizGame",
+    "companyName": "KnowTest",
+    "id": 49,
+    "description": "Fun quizzes and trivia.",
+    "size": 35,
+    "reviews": 1877,
+    "ratingAvg": 4.6,
+    "downloads": 649442,
+    "ratings": [
+      { "name": "1 star", "count": 79 },
+      { "name": "2 star", "count": 92 },
+      { "name": "3 star", "count": 158 },
+      { "name": "4 star", "count": 343 },
+      { "name": "5 star", "count": 649 }
+    ]
+  },
+  {
+    "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvbnMxMTc4MS1pbWFnZS1rd3Z5ZGoxdS5qcGc.jpg",
+    "title": "RemoteControl",
+    "companyName": "DeviceLink",
+    "id": 50,
+    "description": "Control devices remotely.",
+    "size": 63,
+    "reviews": 2998,
+    "ratingAvg": 4.8,
+    "downloads": 557628,
+    "ratings": [
+      { "name": "1 star", "count": 119 },
+      { "name": "2 star", "count": 149 },
+      { "name": "3 star", "count": 329 },
+      { "name": "4 star", "count": 839 },
+      { "name": "5 star", "count": 1562 }
+    ]
+  },
+  {
+    "image": "https://tradersunion.com/uploads/articles/403753/trust-wallet.jpeg",
+    "title": "CryptoWallet",
+    "companyName": "SecureCoin",
+    "id": 51,
+    "description": "Manage cryptocurrencies securely.",
+    "size": 63,
+    "reviews": 1002,
+    "ratingAvg": 4.1,
+    "downloads": 213426,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 145 },
+      { "name": "4 star", "count": 210 },
+      { "name": "5 star", "count": 417 }
+    ]
+  },
+  {
+    "image": "https://cdn.iconscout.com/icon-pack/preview-mockup/free-social-media-icons-logo-icon-pack-svg-download-png-35340.png",
+    "title": "ARViewer",
+    "companyName": "AugReality",
+    "id": 52,
+    "description": "Augmented reality experiences.",
+    "size": 50,
+    "reviews": 2688,
+    "ratingAvg": 4.3,
+    "downloads": 1080576,
+    "ratings": [
+      { "name": "1 star", "count": 241 },
+      { "name": "2 star", "count": 268 },
+      { "name": "3 star", "count": 362 },
+      { "name": "4 star", "count": 618 },
+      { "name": "5 star", "count": 1199 }
+    ]
+  },
+  {
+    "image": "https://s3.mordorintelligence.com/europe-vr-market/europe-vr-market-1765793861770-major-players.webp",
+    "title": "VRWorld",
+    "companyName": "VirtualHub",
+    "id": 53,
+    "description": "Virtual reality app for exploration.",
+    "size": 32,
+    "reviews": 1416,
+    "ratingAvg": 4.2,
+    "downloads": 672600,
+    "ratings": [
+      { "name": "1 star", "count": 141 },
+      { "name": "2 star", "count": 155 },
+      { "name": "3 star", "count": 198 },
+      { "name": "4 star", "count": 311 },
+      { "name": "5 star", "count": 611 }
+    ]
+  },
+  {
+    "image": "https://lapelvet.com/wp-content/uploads/2021/09/This-isn_t-a-chew-toy-454435997_4203x2802-scaled.jpeg",
+    "title": "PetCare",
+    "companyName": "AnimalFriend",
+    "id": 54,
+    "description": "Pet health and care tracker.",
+    "size": 43,
+    "reviews": 2954,
+    "ratingAvg": 4.0,
+    "downloads": 1447460,
+    "ratings": [
+      { "name": "1 star", "count": 354 },
+      { "name": "2 star", "count": 384 },
+      { "name": "3 star", "count": 443 },
+      { "name": "4 star", "count": 590 },
+      { "name": "5 star", "count": 1183 }
+    ]
+  },
+  {
+    "image": "https://cdn.creazilla.com/cliparts/36797/gardening-supplies-clipart-xl.png",
+    "title": "GardeningApp",
+    "companyName": "GreenThumb",
+    "id": 55,
+    "description": "Gardening tips and plant care.",
+    "size": 28,
+    "reviews": 1978,
+    "ratingAvg": 4.3,
+    "downloads": 241316,
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 197 },
+      { "name": "3 star", "count": 267 },
+      { "name": "4 star", "count": 454 },
+      { "name": "5 star", "count": 882 }
+    ]
+  },
+  {
+    "image": "https://miro.medium.com/v2/resize:fit:1400/0*V6FATLDx9fJYLmZt.jpg",
+    "title": "Astronomy",
+    "companyName": "StarGaze",
+    "id": 56,
+    "description": "Star mapping and astronomy info.",
+    "size": 75,
+    "reviews": 2022,
+    "ratingAvg": 4.9,
+    "downloads": 535830,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 212 },
+      { "name": "4 star", "count": 586 },
+      { "name": "5 star", "count": 1084 }
+    ]
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/5fe9eca58d20536a3fc0253a/5d3bc60f-4dc9-440e-9490-43495333f97a/Faulu+the+leopard%2C+with+a+Topi+kill+-+Maasai+Mara-3.jpg",
+    "title": "CookingTimer",
+    "companyName": "ChefAid",
+    "id": 57,
+    "description": "Kitchen timers and conversions.",
+    "size": 97,
+    "reviews": 732,
+    "ratingAvg": 4.2,
+    "downloads": 248880,
+    "ratings": [
+      { "name": "1 star", "count": 73 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 102 },
+      { "name": "4 star", "count": 161 },
+      { "name": "5 star", "count": 316 }
+    ]
+  },
+  {
+    "image": "https://s3.mordorintelligence.com/gps-bike-computers-market/gps-bike-computers-market-1716376157068-Major-Players.webp",
+    "title": "BikeTracker",
+    "companyName": "CyclePro",
+    "id": 58,
+    "description": "Track bike rides and routes.",
+    "size": 29,
+    "reviews": 1039,
+    "ratingAvg": 4.6,
+    "downloads": 443653,
+    "ratings": [
+      { "name": "1 star", "count": 62 },
+      { "name": "2 star", "count": 72 },
+      { "name": "3 star", "count": 124 },
+      { "name": "4 star", "count": 270 },
+      { "name": "5 star", "count": 511 }
+    ]
+  },
+  {
+    "image": "https://aqua-cloud.io/wp-content/uploads/2025/10/uc-2",
+    "title": "RunningCoach",
+    "companyName": "RunFit",
+    "id": 59,
+    "description": "Running training and tracking.",
+    "size": 71,
+    "reviews": 2952,
+    "ratingAvg": 4.0,
+    "downloads": 1198512,
+    "ratings": [
+      { "name": "1 star", "count": 354 },
+      { "name": "2 star", "count": 383 },
+      { "name": "3 star", "count": 442 },
+      { "name": "4 star", "count": 590 },
+      { "name": "5 star", "count": 1183 }
+    ]
+  },
+  {
+    "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMzg5MTQ2LWltYWdlLWt3dnZ6cGxvLmpwZw.jpg",
+    "title": "YogaGuide",
+    "companyName": "PoseMaster",
+    "id": 60,
+    "description": "Yoga poses and sessions.",
+    "size": 21,
+    "reviews": 2535,
+    "ratingAvg": 4.5,
+    "downloads": 750360,
+    "ratings": [
+      { "name": "1 star", "count": 177 },
+      { "name": "2 star", "count": 202 },
+      { "name": "3 star", "count": 316 },
+      { "name": "4 star", "count": 633 },
+      { "name": "5 star", "count": 1207 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Icon-wiki-puzzle.svg",
+    "title": "PuzzleGame",
+    "companyName": "BrainTease",
+    "id": 61,
+    "description": "Daily puzzles and brain games.",
+    "size": 95,
+    "reviews": 1677,
+    "ratingAvg": 4.2,
+    "downloads": 662415,
+    "ratings": [
+      { "name": "1 star", "count": 167 },
+      { "name": "2 star", "count": 184 },
+      { "name": "3 star", "count": 234 },
+      { "name": "4 star", "count": 368 },
+      { "name": "5 star", "count": 724 }
+    ]
+  },
+  {
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e3c349bc-5897-4b1a-85a8-02a99880fd42/dcv20s4-cf5817ff-6165-4d43-bcca-7f524f4ecaf5.jpg",
+    "title": "ComicReader",
+    "companyName": "StripView",
+    "id": 62,
+    "description": "Read comics and graphic novels.",
+    "size": 66,
+    "reviews": 1321,
+    "ratingAvg": 4.6,
+    "downloads": 298546,
+    "ratings": [
+      { "name": "1 star", "count": 79 },
+      { "name": "2 star", "count": 92 },
+      { "name": "3 star", "count": 158 },
+      { "name": "4 star", "count": 343 },
+      { "name": "5 star", "count": 649 }
+    ]
   }
 ]

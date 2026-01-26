@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useLoaderData } from 'react-router';
+import ShowTrendingApp from '../TrendingApp/ShowTrendingApp';
 
 const AllApps = () => {
     const data = useLoaderData()
@@ -18,9 +19,9 @@ const AllApps = () => {
                 <h1 className='font-semibold text-2xl'>({data.length}) Apps Found</h1>
                 <input type="text" placeholder="🔍 Search Apps" className="input" />
             </div>
-            <div>
+            <div className ='grid grid-cols-4 gap-4 mt-5 p-10'>
                 {
-                    
+                    apps.map(app => <ShowTrendingApp app = {app} key={app.id} ></ShowTrendingApp>)
                 }
             </div>
         </div>

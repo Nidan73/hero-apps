@@ -1,6 +1,7 @@
 import React from 'react';
 import downloadimg from '../../assets/icon-downloads.png'
 import ratingimg from '../../assets/icon-ratings.png'
+import { Link } from 'react-router';
 const ShowTrendingApp = ({app}) => {
     const {image,id,title,downloads,ratings} = app ; 
    
@@ -25,8 +26,12 @@ const ShowTrendingApp = ({app}) => {
   }
   return num.toString();
 };
+
+
+   
     return (
-        <div>
+        <div> 
+            <Link to={`/appsdetail/${id}`}>
             <div  className="card bg-base-100 md:w-96 shadow-sm ">
                 
                   <figure className='mx-2.5 my-2 bg-gray-100 rounded-2xl bg-gray-100'>
@@ -53,6 +58,7 @@ const ShowTrendingApp = ({app}) => {
 
  </div>
 </div>
+</Link>
         </div>
     );
 };

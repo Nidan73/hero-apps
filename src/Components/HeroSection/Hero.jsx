@@ -41,15 +41,15 @@ const Hero = () => {
                 your ideas into digital experiences that truly make an impact.
               </p>
 
-              <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline font-bold mr-5">
+              <a target="blank_" href="https://play.google.com/store/games?hl=en&pli=1" className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline font-bold mr-5">
                 <img className="h-4 w-4 md:h-6 md:w-6" src={gp} alt="" />
                 Google Play
-              </button>
+              </a>
 
-              <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline font-bold">
+              <a target="blank" href="https://www.apple.com/app-store/" className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline font-bold">
                 <img className="h-4 w-4 md:h-6 md:w-6" src={appstore} alt="" />
                 App Store
-              </button>
+              </a>
               <div className="relative mt-10 w-full flex justify-center overflow-visible">
           <div className="relative w-fit">
             <img

@@ -3,6 +3,7 @@ import { RouterProvider } from "react-router/dom";
 import Root from "../Root/Root";
 import Home from "../Components/Home/Home";
 import AllApps from "../Components/AllApps/AllApps";
+import AppsDetail from "../Components/AppDetail/AppsDetail";
 
 const router = createBrowserRouter([
   {
@@ -19,6 +20,11 @@ const router = createBrowserRouter([
             path : '/allApps',
             loader : ()=> fetch('/Apps.json'),
             Component : AllApps,
+        },
+        {
+            path : '/appsdetail/:id',
+            loader : ()=> fetch('/Apps.json'),
+            Component : AppsDetail,
         }
     ]
   },
