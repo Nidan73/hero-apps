@@ -1,0 +1,218 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "title": "TaskFlow",
+    "companyName": "Flow Labs",
+    "id": 1,
+    "description": "Organize tasks, set priorities, and manage projects efficiently.",
+    "size": 48,
+    "reviews": 1240,
+    "ratingAvg": 4.6,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 580 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b",
+    "title": "FitPulse",
+    "companyName": "Healthify Inc",
+    "id": 2,
+    "description": "Workout tracking app with heart-rate and calorie insights.",
+    "size": 62,
+    "reviews": 980,
+    "ratingAvg": 4.4,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 360 },
+      { "name": "5 star", "count": 410 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db",
+    "title": "NoteSphere",
+    "companyName": "SphereSoft",
+    "id": 3,
+    "description": "Clean and distraction-free note-taking with cloud sync.",
+    "size": 29,
+    "reviews": 1560,
+    "ratingAvg": 4.8,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1554224154-22dec7ec8818",
+    "title": "MoneyWise",
+    "companyName": "FinEdge",
+    "id": 4,
+    "description": "Track spending, savings, and monthly budgets effortlessly.",
+    "size": 51,
+    "reviews": 860,
+    "ratingAvg": 4.3,
+    "downloads": 160000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 245 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
+    "title": "TuneBox",
+    "companyName": "SoundWave",
+    "id": 5,
+    "description": "Stream music, create playlists, and discover new artists.",
+    "size": 74,
+    "reviews": 2040,
+    "ratingAvg": 4.7,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1525186402429-b4ff38bedbec",
+    "title": "ChatLoop",
+    "companyName": "LoopTech",
+    "id": 6,
+    "description": "Instant messaging app with end-to-end encryption.",
+    "size": 45,
+    "reviews": 1720,
+    "ratingAvg": 4.5,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 55 },
+      { "name": "2 star", "count": 75 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 890 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "title": "Learnify",
+    "companyName": "EduCore",
+    "id": 7,
+    "description": "Online learning platform with expert-led courses.",
+    "size": 88,
+    "reviews": 940,
+    "ratingAvg": 4.6,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216",
+    "title": "ShopEase",
+    "companyName": "RetailX",
+    "id": 8,
+    "description": "Shop products online with fast delivery and secure payments.",
+    "size": 96,
+    "reviews": 2650,
+    "ratingAvg": 4.4,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 820 },
+      { "name": "5 star", "count": 1300 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
+    "title": "CloudSafe",
+    "companyName": "SecureNet",
+    "id": 9,
+    "description": "Secure cloud storage and file backup solution.",
+    "size": 58,
+    "reviews": 1180,
+    "ratingAvg": 4.5,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 390 },
+      { "name": "5 star", "count": 550 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "title": "TeamBoard",
+    "companyName": "CollabWorks",
+    "id": 10,
+    "description": "Team collaboration tool for remote work.",
+    "size": 67,
+    "reviews": 760,
+    "ratingAvg": 4.2,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 65 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 215 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522204507765-4a85b77f6f7e",
+    "title": "TravelMate",
+    "companyName": "WanderSoft",
+    "id": 11,
+    "description": "Plan trips, book hotels, and explore destinations.",
+    "size": 82,
+    "reviews": 1340,
+    "ratingAvg": 4.6,
+    "downloads": 360000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 430 },
+      { "name": "5 star", "count": 660 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "title": "DevTools",
+    "companyName": "CodeForge",
+    "id": 12,
+    "description": "Developer utility app for testing APIs and debugging code.",
+    "size": 54,
+    "reviews": 690,
+    "ratingAvg": 4.7,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 340 }
+    ]
+  }
+]
