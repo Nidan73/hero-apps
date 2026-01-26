@@ -5,9 +5,11 @@ import ShowTrendingApp from '../TrendingApp/ShowTrendingApp';
 const AllApps = () => {
     const data = useLoaderData()
 
-    const [apps ,setApps] = useState([...data])
+    const [search, setSearch] = useState("");
 
-    // console.log(apps)
+  const filteredApps = data.filter(app =>
+    app.title.toLowerCase().includes(search.toLowerCase())
+  );
     return (
         <div className='max-w-550 mx-auto'>
             <div className='mt-20 mb-10 bg-base-100'>
@@ -17,11 +19,11 @@ const AllApps = () => {
             </div>
             <div className='flex items-center justify-between'>
                 <h1 className='font-semibold text-2xl'>({data.length}) Apps Found</h1>
-                <input type="text" placeholder="🔍 Search Apps" className="input" />
+                <input  onChange={(e) => setSearch(e.target.value)} type="text" placeholder="🔍 Search Apps" className="input" />
             </div>
-            <div className ='grid grid-cols-4 gap-4 mt-5 p-10'>
+            <div className ='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-5 p-10'>
                 {
-                    apps.map(app => <ShowTrendingApp app = {app} key={app.id} ></ShowTrendingApp>)
+                    filteredApps.map(app => <ShowTrendingApp app = {app} key={app.id} ></ShowTrendingApp>)
                 }
             </div>
         </div>

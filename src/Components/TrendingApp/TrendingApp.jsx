@@ -1,5 +1,6 @@
 import React from 'react';
 import ShowTrendingApp from './ShowTrendingApp';
+import { Link } from 'react-router';
 
 const TrendingApp = ({data}) => {
       const trendingApps = data.slice(0,8);
@@ -15,9 +16,11 @@ const TrendingApp = ({data}) => {
                     trendingApps.map(app => <ShowTrendingApp key={app.id} app = {app}></ShowTrendingApp>)
                 }
              </div>
+             <Link to="/allApps">
              <div className="flex justify-center mt-6">
                 <button className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white px-6">Show All</button>
              </div>
+             </Link>
         </div>
     );
 };

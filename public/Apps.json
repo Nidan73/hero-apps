@@ -4,7 +4,7 @@
     "title": "TaskFlow",
     "companyName": "Flow Labs",
     "id": 1,
-    "description": "Organize tasks, set priorities, and manage projects efficiently.",
+    "description": "TaskFlow is designed to be the ultimate companion for modern professionals who need to navigate complex project landscapes with ease and precision. The application offers a comprehensive suite of tools that allow users to organize their daily tasks into intuitive lists, set granular priorities to ensure critical deadlines are never missed, and manage large-scale projects through advanced milestones and progress tracking. Whether you are a solo freelancer looking to optimize your personal workflow or part of a global team coordinating cross-functional efforts, TaskFlow provides the flexibility and power needed to succeed. With features like real-time collaboration, cloud synchronization across all your devices, customizable notification systems, and detailed productivity analytics, this app transforms the way you approach your work, turning chaotic to-do lists into streamlined and achievable plans.",
     "size": 48,
     "reviews": 1240,
     "ratingAvg": 4.6,
@@ -22,7 +22,7 @@
     "title": "FitPulse",
     "companyName": "Healthify Inc",
     "id": 2,
-    "description": "Workout tracking app with heart-rate and calorie insights.",
+    "description": "FitPulse is a comprehensive health and fitness platform engineered to help individuals achieve their physical peak through data-driven insights and personalized guidance. By integrating seamless workout tracking with real-time heart-rate monitoring and precision calorie analysis, the app provides a 360-degree view of your daily activity and metabolic health. Users can access a massive library of guided exercises ranging from high-intensity interval training to restorative yoga, all tailored to their specific fitness level and goals. The app features social challenges that allow you to compete with friends, milestone badges to keep you motivated, and deep integration with popular wearable devices. Whether you are training for a marathon or just starting your fitness journey, FitPulse offers the professional-grade tools required to transform your lifestyle and maintain long-term wellness.",
     "size": 62,
     "reviews": 980,
     "ratingAvg": 4.4,
@@ -40,7 +40,7 @@
     "title": "NoteSphere",
     "companyName": "SphereSoft",
     "id": 3,
-    "description": "Clean and distraction-free note-taking with cloud sync.",
+    "description": "NoteSphere redefines the digital writing experience by providing a clean, distraction-free environment that prioritizes your thoughts and creativity above all else. Built with a focus on minimalism and efficiency, the app allows users to capture ideas instantly using a variety of formats, including rich text, markdown, and voice-to-text inputs. The sophisticated cloud synchronization engine ensures that your notes are always available and up-to-date across your smartphone, tablet, and desktop, regardless of your location. Beyond simple text, NoteSphere offers robust organizational features such as nested folders, intelligent tagging, and a powerful search function that can find keywords within handwritten documents. With industry-leading encryption and private backup options, your intellectual property remains secure while you focus on brainstorming, journaling, or drafting your next big project in a beautiful, serene digital workspace.",
     "size": 29,
     "reviews": 1560,
     "ratingAvg": 4.8,
@@ -58,7 +58,7 @@
     "title": "MoneyWise",
     "companyName": "FinEdge",
     "id": 4,
-    "description": "Track spending, savings, and monthly budgets effortlessly.",
+    "description": "MoneyWise is a sophisticated financial management tool designed to empower users with total control over their economic future through effortless tracking and intelligent budgeting. The application simplifies the complex task of monitoring daily expenditures by automatically categorizing transactions and providing visual insights into spending patterns. Users can set ambitious savings goals, create customized monthly budgets, and receive real-time alerts when they approach their financial limits. MoneyWise also offers advanced features such as recurring bill reminders, net worth tracking, and investment portfolio overviews, all protected by bank-level security and biometric authentication. By turning raw financial data into actionable advice, the app helps you identify unnecessary costs and optimize your cash flow. Whether you are saving for a home or managing a small business, MoneyWise provides the clarity needed to make smarter, more confident financial decisions every day.",
     "size": 51,
     "reviews": 860,
     "ratingAvg": 4.3,
@@ -76,7 +76,7 @@
     "title": "TuneBox",
     "companyName": "SoundWave",
     "id": 5,
-    "description": "Stream music, create playlists, and discover new artists.",
+    "description": "TuneBox is a premier music streaming and discovery platform that brings the entire world of sound directly to your fingertips through a high-fidelity, user-centric interface. The app allows users to stream millions of tracks from both global superstars and emerging indie artists, creating a diverse auditory landscape for every possible mood. With advanced machine-learning algorithms, TuneBox generates personalized playlists that evolve based on your listening habits, ensuring you are always discovering new music that resonates with your taste. Users can create and share their own collaborative playlists, follow their favorite artists for exclusive updates, and enjoy an offline mode for listening without a data connection. The platform also features high-resolution audio settings, integrated lyrics for sing-alongs, and a sleek, customizable player that looks as good as it sounds, making TuneBox the ultimate destination for true audiophiles.",
     "size": 74,
     "reviews": 2040,
     "ratingAvg": 4.7,
@@ -94,7 +94,7 @@
     "title": "ChatLoop",
     "companyName": "LoopTech",
     "id": 6,
-    "description": "Instant messaging app with end-to-end encryption.",
+    "description": "ChatLoop provides a secure and dynamic communication environment designed for users who value both privacy and rich, interactive messaging features. The application utilizes industry-leading end-to-end encryption to ensure that every conversation, file transfer, and voice call remains strictly confidential between the sender and the recipient. Beyond security, ChatLoop offers a vibrant user experience with high-definition video calling, custom animated stickers, and massive group chat capabilities for communities of up to ten thousand members. Users can utilize self-destructing messages for extra sensitive info and enjoy seamless multi-device support that keeps conversations synced across phones and tablets. The app is optimized for low-bandwidth connections, making it reliable in any location. With its clean interface and robust set of social features, ChatLoop is the perfect tool for staying connected with friends, family, and professional teams while maintaining absolute digital security.",
     "size": 45,
     "reviews": 1720,
     "ratingAvg": 4.5,
@@ -112,7 +112,7 @@
     "title": "Learnify",
     "companyName": "EduCore",
     "id": 7,
-    "description": "Online learning platform with expert-led courses.",
+    "description": "Learnify is a revolutionary online education platform that democratizes access to high-quality knowledge by connecting learners with world-class experts across hundreds of specialized subjects. The application features a massive library of on-demand video courses, interactive quizzes, and downloadable resources designed to help students master new skills at their own pace. From computer programming and data science to digital marketing and creative arts, Learnify offers structured learning paths that lead to professional certifications and tangible career advancement. The app’s intuitive learning management system tracks your progress, suggests relevant content based on your interests, and provides a forum for direct interaction with instructors and fellow students. With offline viewing capabilities and a mobile-optimized interface, Learnify makes it possible to turn your daily commute or free time into a productive learning session, empowering you to reach your full potential from anywhere.",
     "size": 88,
     "reviews": 940,
     "ratingAvg": 4.6,
@@ -130,7 +130,7 @@
     "title": "ShopEase",
     "companyName": "RetailX",
     "id": 8,
-    "description": "Shop products online with fast delivery and secure payments.",
+    "description": "ShopEase is an all-encompassing e-commerce application designed to provide a seamless and highly personalized shopping experience for users around the globe. By leveraging advanced search filters and AI-driven recommendations, the app helps you discover millions of products ranging from the latest fashion trends and high-tech electronics to essential home goods and groceries. ShopEase prioritizes user convenience with a lightning-fast checkout process, multiple secure payment options, and a robust order tracking system that provides real-time updates from the warehouse to your doorstep. The platform also features an integrated customer review system, allowing you to make informed decisions based on the experiences of other shoppers. With exclusive daily deals, loyalty rewards, and a hassle-free return policy, ShopEase transforms the way you shop by making it more efficient, secure, and rewarding, effectively bringing the entire mall directly into the palm of your hand.",
     "size": 96,
     "reviews": 2650,
     "ratingAvg": 4.4,
@@ -148,7 +148,7 @@
     "title": "CloudSafe",
     "companyName": "SecureNet",
     "id": 9,
-    "description": "Secure cloud storage and file backup solution.",
+    "description": "CloudSafe offers a world-class cloud storage and file backup solution designed to protect your most valuable digital assets from data loss while ensuring they are accessible whenever you need them. The application provides a highly secure environment with zero-knowledge encryption, meaning only you have the keys to your data, ensuring total privacy from third parties and service providers. Users can effortlessly sync large files, high-resolution photos, and complex project folders across all their devices, with the app handling version control and file recovery automatically. CloudSafe also features advanced collaboration tools, allowing you to share secure links with specific permissions and expiration dates. With an intuitive file manager, powerful search capabilities, and a seamless mobile interface, CloudSafe is the ideal choice for individuals and businesses who require a reliable, high-performance storage solution that never compromises on security or speed in a connected world.",
     "size": 58,
     "reviews": 1180,
     "ratingAvg": 4.5,
@@ -166,7 +166,7 @@
     "title": "TeamBoard",
     "companyName": "CollabWorks",
     "id": 10,
-    "description": "Team collaboration tool for remote work.",
+    "description": "TeamBoard is the definitive collaboration platform for remote and hybrid teams who need a unified space to ideate, plan, and execute projects regardless of their physical location. The application provides an expansive digital whiteboard that supports real-time brainstorming, sticky notes, diagramming, and high-fidelity wireframing, making it easy to turn abstract ideas into concrete visual plans. With deep integration with popular project management tools and video conferencing software, TeamBoard serves as the central hub for all team activity, ensuring everyone stays aligned on goals and deadlines. Users can utilize a massive library of templates for agile sprints, design thinking workshops, and strategic planning sessions, all within a secure, cloud-based environment. By removing the barriers to communication and encouraging visual thinking, TeamBoard helps teams increase their creative output and streamline their professional workflows for maximum efficiency and collaborative success.",
     "size": 67,
     "reviews": 760,
     "ratingAvg": 4.2,
@@ -184,7 +184,7 @@
     "title": "TravelMate",
     "companyName": "WanderSoft",
     "id": 11,
-    "description": "Plan trips, book hotels, and explore destinations.",
+    "description": "TravelMate is a powerful, all-in-one travel planning assistant designed to take the stress out of international and domestic journeys through intelligent itinerary management and local insights. The app allows users to book flights, hotels, and car rentals at the most competitive rates, while automatically organizing all confirmation emails into a single, cohesive timeline that is accessible even without an internet connection. Beyond logistics, TravelMate features curated city guides, real-time currency converters, and an integrated language translator to help you navigate unfamiliar destinations with confidence. Users can also discover hidden local gems, book unique tours and experiences, and receive live alerts regarding flight delays or gate changes. Whether you are planning a solo backpacking trip across Europe or a luxurious family vacation in the tropics, TravelMate provides the comprehensive tools and expert advice needed to create unforgettable memories and enjoy a perfectly organized adventure.",
     "size": 82,
     "reviews": 1340,
     "ratingAvg": 4.6,
@@ -202,7 +202,7 @@
     "title": "DevTools",
     "companyName": "CodeForge",
     "id": 12,
-    "description": "Developer utility app for testing APIs and debugging code.",
+    "description": "DevTools is an essential utility suite designed specifically for software developers and QA engineers who need to test APIs, debug complex code, and optimize application performance on the go. The application features a robust REST client that allows for detailed request customization, including headers, authentication tokens, and JSON body payloads with real-time response visualization. Additionally, DevTools includes a variety of critical helper tools such as JSON formatters, Base64 encoders, JWT decoders, and a powerful regex tester to speed up the development cycle. The app’s clean and efficient interface supports dark mode for late-night coding sessions and provides a secure environment for storing sensitive API keys and configuration settings. By consolidating multiple development utilities into a single, high-performance mobile application, CodeForge’s DevTools empowers engineers to troubleshoot issues and maintain their projects with professional precision, regardless of whether they are at their desk or in the field.",
     "size": 54,
     "reviews": 690,
     "ratingAvg": 4.7,
@@ -220,7 +220,7 @@
     "title": "WeatherPro",
     "companyName": "ClimateCorp",
     "id": 13,
-    "description": "Real-time weather updates and forecasts.",
+    "description": "WeatherPro is a hyper-local meteorological platform that provides users with precision weather updates, long-range forecasts, and critical severe weather alerts based on real-time satellite data and proprietary climate models. The application features beautiful, high-definition radar maps that allow you to track rain, snow, and wind patterns with incredible accuracy down to the minute. Users can customize their dashboard to show detailed metrics such as UV index, humidity levels, air quality reports, and sunset times, ensuring they are prepared for any outdoor activity. WeatherPro also includes specialized forecasts for commuters, gardeners, and outdoor enthusiasts, offering tailored advice based on current atmospheric conditions. With its elegant interface, reliable global coverage, and advanced storm-tracking technology, WeatherPro is the go-to resource for anyone who needs to stay ahead of the elements and make informed decisions about their daily schedule in an increasingly unpredictable climate environment.",
     "size": 31,
     "reviews": 2815,
     "ratingAvg": 4.1,
@@ -238,7 +238,7 @@
     "title": "PhotoEdit",
     "companyName": "ImageMasters",
     "id": 14,
-    "description": "Professional photo editing tools.",
+    "description": "PhotoEdit is a professional-grade image processing suite that empowers mobile photographers to transform their snapshots into stunning works of art through a collection of powerful, intuitive editing tools. The application features advanced color correction capabilities, allowing users to fine-tune exposure, contrast, saturation, and white balance with surgical precision. For creative flair, PhotoEdit offers a massive library of high-quality filters, vintage grain effects, and customizable overlays that can give any image a unique aesthetic. The app also includes specialized retouching tools for portrait photography, such as skin smoothing and blemish removal, alongside architectural tools for perspective correction and cropping. With support for high-resolution exports, non-destructive editing workflows, and a sleek, modern interface, PhotoEdit is the ultimate creative companion for anyone from social media influencers to professional artists looking to perfect their visual content on the go and share it with the world.",
     "size": 65,
     "reviews": 1954,
     "ratingAvg": 4.4,
@@ -256,7 +256,7 @@
     "title": "VideoMaker",
     "companyName": "FilmStudio",
     "id": 15,
-    "description": "Easy video creation and editing.",
+    "description": "VideoMaker is a versatile and user-friendly video editing platform that simplifies the process of creating high-quality cinematic content for social media, YouTube, and personal archives. The application provides a multi-track timeline that allows users to easily arrange clips, add smooth transitions, and overlay text animations with professional-level precision. Beyond basic cutting, VideoMaker features a rich library of royalty-free music tracks, sound effects, and dynamic motion graphics to enhance the emotional impact of your stories. Users can also utilize advanced features like green-screen effects, speed ramping for slow-motion sequences, and precision color grading to achieve a high-end look without needing expensive desktop software. With an intuitive drag-and-drop interface and optimized export settings for all major platforms, VideoMaker is the perfect tool for aspiring filmmakers and content creators who want to produce engaging, high-impact video stories directly from their mobile device with ease.",
     "size": 26,
     "reviews": 993,
     "ratingAvg": 4.9,
@@ -268,851 +268,7 @@
       { "name": "4 star", "count": 287 },
       { "name": "5 star", "count": 534 }
     ]
-  },
-  {
-    "image": "https://i1.pickpik.com/photos/260/556/929/technology-social-media-technology-preview.jpg",
-    "title": "SocialHub",
-    "companyName": "ConnectNet",
-    "id": 16,
-    "description": "All-in-one social media manager.",
-    "size": 69,
-    "reviews": 1558,
-    "ratingAvg": 4.3,
-    "downloads": 553090,
-    "ratings": [
-      { "name": "1 star", "count": 140 },
-      { "name": "2 star", "count": 155 },
-      { "name": "3 star", "count": 210 },
-      { "name": "4 star", "count": 358 },
-      { "name": "5 star", "count": 695 }
-    ]
-  },
-  {
-    "image": "https://s3.mordorintelligence.com/global-subscription-based-gaming-market/global-subscription-based-gaming-market-1713269329705-Subscription-Based-Gaming-Market-ML.webp",
-    "title": "GameZone",
-    "companyName": "PlayWorld",
-    "id": 17,
-    "description": "Discover and play mobile games.",
-    "size": 33,
-    "reviews": 877,
-    "ratingAvg": 4.2,
-    "downloads": 330629,
-    "ratings": [
-      { "name": "1 star", "count": 87 },
-      { "name": "2 star", "count": 96 },
-      { "name": "3 star", "count": 122 },
-      { "name": "4 star", "count": 192 },
-      { "name": "5 star", "count": 380 }
-    ]
-  },
-  {
-    "image": "https://openclipart.org/download/250668/Icones.svg",
-    "title": "RecipeBook",
-    "companyName": "CookEasy",
-    "id": 18,
-    "description": "Thousands of recipes and meal plans.",
-    "size": 29,
-    "reviews": 1871,
-    "ratingAvg": 4.8,
-    "downloads": 849434,
-    "ratings": [
-      { "name": "1 star", "count": 74 },
-      { "name": "2 star", "count": 93 },
-      { "name": "3 star", "count": 205 },
-      { "name": "4 star", "count": 523 },
-      { "name": "5 star", "count": 976 }
-    ]
-  },
-  {
-    "image": "https://s3.mordorintelligence.com/online-language-learning-market/online-language-learning-market-1750156121502-major-players.webp",
-    "title": "LanguageLearn",
-    "companyName": "LinguaApp",
-    "id": 19,
-    "description": "Learn new languages interactively.",
-    "size": 30,
-    "reviews": 2353,
-    "ratingAvg": 4.9,
-    "downloads": 517660,
-    "ratings": [
-      { "name": "1 star", "count": 70 },
-      { "name": "2 star", "count": 94 },
-      { "name": "3 star", "count": 247 },
-      { "name": "4 star", "count": 682 },
-      { "name": "5 star", "count": 1260 }
-    ]
-  },
-  {
-    "image": "https://cdni.iconscout.com/illustration/free/thumb/free-relaxing-mind-illustration-svg-download-png-1749566.png",
-    "title": "MeditationGuide",
-    "companyName": "ZenMind",
-    "id": 20,
-    "description": "Guided meditations for relaxation.",
-    "size": 46,
-    "reviews": 2676,
-    "ratingAvg": 4.0,
-    "downloads": 936600,
-    "ratings": [
-      { "name": "1 star", "count": 321 },
-      { "name": "2 star", "count": 347 },
-      { "name": "3 star", "count": 401 },
-      { "name": "4 star", "count": 535 },
-      { "name": "5 star", "count": 1072 }
-    ]
-  },
-  {
-    "image": "https://marketcentralhub.com/wp-content/uploads/2021/09/Ebook-image-1024x576.jpg",
-    "title": "BookReader",
-    "companyName": "LitLibrary",
-    "id": 21,
-    "description": "E-book reader with vast library.",
-    "size": 65,
-    "reviews": 2341,
-    "ratingAvg": 4.1,
-    "downloads": 786576,
-    "ratings": [
-      { "name": "1 star", "count": 257 },
-      { "name": "2 star", "count": 280 },
-      { "name": "3 star", "count": 339 },
-      { "name": "4 star", "count": 491 },
-      { "name": "5 star", "count": 974 }
-    ]
-  },
-  {
-    "image": "https://s3.mordorintelligence.com/podcast-market/podcast-market-1752155768658-major-players.webp",
-    "title": "PodcastPlayer",
-    "companyName": "AudioCast",
-    "id": 22,
-    "description": "Listen to podcasts on the go.",
-    "size": 69,
-    "reviews": 1012,
-    "ratingAvg": 4.3,
-    "downloads": 342056,
-    "ratings": [
-      { "name": "1 star", "count": 91 },
-      { "name": "2 star", "count": 101 },
-      { "name": "3 star", "count": 136 },
-      { "name": "4 star", "count": 232 },
-      { "name": "5 star", "count": 452 }
-    ]
-  },
-  {
-    "image": "https://images.pexels.com/photos/5444631/pexels-photo-5444631.jpeg",
-    "title": "MapNavigator",
-    "companyName": "GeoGuide",
-    "id": 23,
-    "description": "Offline maps and navigation.",
-    "size": 98,
-    "reviews": 2907,
-    "ratingAvg": 4.4,
-    "downloads": 392445,
-    "ratings": [
-      { "name": "1 star", "count": 232 },
-      { "name": "2 star", "count": 261 },
-      { "name": "3 star", "count": 377 },
-      { "name": "4 star", "count": 697 },
-      { "name": "5 star", "count": 1340 }
-    ]
-  },
-  {
-    "image": "https://s.cystack.net/resource/home/content/08100042/local-cloud-2.png",
-    "title": "PasswordSafe",
-    "companyName": "SecureVault",
-    "id": 24,
-    "description": "Manage passwords securely.",
-    "size": 79,
-    "reviews": 2051,
-    "ratingAvg": 4.2,
-    "downloads": 412251,
-    "ratings": [
-      { "name": "1 star", "count": 205 },
-      { "name": "2 star", "count": 225 },
-      { "name": "3 star", "count": 287 },
-      { "name": "4 star", "count": 451 },
-      { "name": "5 star", "count": 883 }
-    ]
-  },
-  {
-    "image": "https://www.cloudxdpo.com/hubfs/Eliminating-Payment-Delays-The-Case-for-Automating-Accounts-Payable-in-Your-Dealership-B9.png",
-    "title": "CalendarPlus",
-    "companyName": "EventMaster",
-    "id": 25,
-    "description": "Advanced calendar and reminders.",
-    "size": 49,
-    "reviews": 2073,
-    "ratingAvg": 4.1,
-    "downloads": 796032,
-    "ratings": [
-      { "name": "1 star", "count": 228 },
-      { "name": "2 star", "count": 248 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 435 },
-      { "name": "5 star", "count": 862 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bulut_icon.svg",
-    "title": "ScannerApp",
-    "companyName": "DocScan",
-    "id": 26,
-    "description": "Scan documents with your phone.",
-    "size": 59,
-    "reviews": 2009,
-    "ratingAvg": 4.1,
-    "downloads": 293314,
-    "ratings": [
-      { "name": "1 star", "count": 220 },
-      { "name": "2 star", "count": 241 },
-      { "name": "3 star", "count": 291 },
-      { "name": "4 star", "count": 421 },
-      { "name": "5 star", "count": 836 }
-    ]
-  },
-  {
-    "image": "https://cdn.sparrowcode.io/tutorials/sf-symbols-and-render-mode/palette-render.jpg",
-    "title": "Translator",
-    "companyName": "LangTrans",
-    "id": 27,
-    "description": "Real-time language translation.",
-    "size": 24,
-    "reviews": 1571,
-    "ratingAvg": 4.4,
-    "downloads": 425741,
-    "ratings": [
-      { "name": "1 star", "count": 125 },
-      { "name": "2 star", "count": 141 },
-      { "name": "3 star", "count": 204 },
-      { "name": "4 star", "count": 377 },
-      { "name": "5 star", "count": 724 }
-    ]
-  },
-  {
-    "image": "https://www.tradingsim.com/hubfs/Imported_Blog_Media/PaperTradingApps-2.png",
-    "title": "StockTracker",
-    "companyName": "InvestWise",
-    "id": 28,
-    "description": "Monitor stock markets and portfolios.",
-    "size": 89,
-    "reviews": 1734,
-    "ratingAvg": 4.0,
-    "downloads": 563550,
-    "ratings": [
-      { "name": "1 star", "count": 208 },
-      { "name": "2 star", "count": 225 },
-      { "name": "3 star", "count": 260 },
-      { "name": "4 star", "count": 346 },
-      { "name": "5 star", "count": 695 }
-    ]
-  },
-  {
-    "image": "https://cdn.iconscout.com/icon-pack/preview-mockup/free-apple-watch-icon-pack-svg-download-png-23276.png",
-    "title": "WorkoutPlanner",
-    "companyName": "FitPlan",
-    "id": 29,
-    "description": "Custom workout plans and tracking.",
-    "size": 88,
-    "reviews": 678,
-    "ratingAvg": 4.2,
-    "downloads": 96276,
-    "ratings": [
-      { "name": "1 star", "count": 67 },
-      { "name": "2 star", "count": 74 },
-      { "name": "3 star", "count": 94 },
-      { "name": "4 star", "count": 149 },
-      { "name": "5 star", "count": 294 }
-    ]
-  },
-  {
-    "image": "https://bodylabstudios.com/wp-content/uploads/2025/08/Blue-light-when-to-use-1024x683.png",
-    "title": "SleepTracker",
-    "companyName": "RestWell",
-    "id": 30,
-    "description": "Monitor sleep patterns and tips.",
-    "size": 77,
-    "reviews": 904,
-    "ratingAvg": 4.1,
-    "downloads": 184416,
-    "ratings": [
-      { "name": "1 star", "count": 99 },
-      { "name": "2 star", "count": 108 },
-      { "name": "3 star", "count": 131 },
-      { "name": "4 star", "count": 189 },
-      { "name": "5 star", "count": 377 }
-    ]
-  },
-  {
-    "image": "https://brandenbodendorfer.com/wp-content/uploads/2024/06/noteshelf-app-guide.jpg",
-    "title": "JournalApp",
-    "companyName": "DailyWrite",
-    "id": 31,
-    "description": "Digital journaling and mood tracking.",
-    "size": 31,
-    "reviews": 1806,
-    "ratingAvg": 4.8,
-    "downloads": 370230,
-    "ratings": [
-      { "name": "1 star", "count": 72 },
-      { "name": "2 star", "count": 90 },
-      { "name": "3 star", "count": 198 },
-      { "name": "4 star", "count": 505 },
-      { "name": "5 star", "count": 941 }
-    ]
-  },
-  {
-    "image": "https://miro.medium.com/v2/resize:fit:1200/1*nDnSNncUWaxAnErl4Nm70Q.jpeg",
-    "title": "QRCodeGen",
-    "companyName": "CodeMaker",
-    "id": 32,
-    "description": "Generate and scan QR codes.",
-    "size": 87,
-    "reviews": 1845,
-    "ratingAvg": 4.2,
-    "downloads": 557190,
-    "ratings": [
-      { "name": "1 star", "count": 184 },
-      { "name": "2 star", "count": 202 },
-      { "name": "3 star", "count": 258 },
-      { "name": "4 star", "count": 405 },
-      { "name": "5 star", "count": 796 }
-    ]
-  },
-  {
-    "image": "https://www.soft8soft.com/docs/files/app-manager/app-manager-app-settings-pwa.webp",
-    "title": "UnitConverter",
-    "companyName": "MeasurePro",
-    "id": 33,
-    "description": "Convert units easily.",
-    "size": 74,
-    "reviews": 1833,
-    "ratingAvg": 4.3,
-    "downloads": 672711,
-    "ratings": [
-      { "name": "1 star", "count": 164 },
-      { "name": "2 star", "count": 183 },
-      { "name": "3 star", "count": 247 },
-      { "name": "4 star", "count": 421 },
-      { "name": "5 star", "count": 818 }
-    ]
-  },
-  {
-    "image": "https://cdn.creazilla.com/cliparts/22536/torch-clipart-xl.png",
-    "title": "Flashlight",
-    "companyName": "BrightLight",
-    "id": 34,
-    "description": "Simple flashlight app.",
-    "size": 64,
-    "reviews": 2874,
-    "ratingAvg": 4.2,
-    "downloads": 796098,
-    "ratings": [
-      { "name": "1 star", "count": 287 },
-      { "name": "2 star", "count": 316 },
-      { "name": "3 star", "count": 402 },
-      { "name": "4 star", "count": 632 },
-      { "name": "5 star", "count": 1237 }
-    ]
-  },
-  {
-    "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMDIxOTUzLWltYWdlLWt3eXJpaTJ4LmpwZw.jpg",
-    "title": "CalculatorPro",
-    "companyName": "MathCalc",
-    "id": 35,
-    "description": "Advanced scientific calculator.",
-    "size": 44,
-    "reviews": 1061,
-    "ratingAvg": 4.7,
-    "downloads": 206895,
-    "ratings": [
-      { "name": "1 star", "count": 53 },
-      { "name": "2 star", "count": 63 },
-      { "name": "3 star", "count": 122 },
-      { "name": "4 star", "count": 286 },
-      { "name": "5 star", "count": 537 }
-    ]
-  },
-  {
-    "image": "https://skyswitch.com/wp-content/uploads/2025/05/SkySwitch-UC-Client-Key-Features-Image-01-1-1-scaled.jpg",
-    "title": "VoiceRecorder",
-    "companyName": "AudioNote",
-    "id": 36,
-    "description": "Record voice memos.",
-    "size": 44,
-    "reviews": 2069,
-    "ratingAvg": 4.7,
-    "downloads": 825531,
-    "ratings": [
-      { "name": "1 star", "count": 103 },
-      { "name": "2 star", "count": 124 },
-      { "name": "3 star", "count": 237 },
-      { "name": "4 star", "count": 558 },
-      { "name": "5 star", "count": 1047 }
-    ]
-  },
-  {
-    "image": "https://www.ctrl.blog/media/hero/windows-openwith-default-program.png",
-    "title": "FileManager",
-    "companyName": "StoragePro",
-    "id": 37,
-    "description": "Manage files on your device.",
-    "size": 72,
-    "reviews": 1323,
-    "ratingAvg": 4.5,
-    "downloads": 325458,
-    "ratings": [
-      { "name": "1 star", "count": 92 },
-      { "name": "2 star", "count": 105 },
-      { "name": "3 star", "count": 165 },
-      { "name": "4 star", "count": 330 },
-      { "name": "5 star", "count": 631 }
-    ]
-  },
-  {
-    "image": "https://p1.hippopx.com/preview/469/904/899/vpn-personal-data-personal-security-cyber-attacks-hacking-malware.jpg",
-    "title": "VPNSecure",
-    "companyName": "NetShield",
-    "id": 38,
-    "description": "Secure VPN for privacy.",
-    "size": 31,
-    "reviews": 856,
-    "ratingAvg": 4.4,
-    "downloads": 154936,
-    "ratings": [
-      { "name": "1 star", "count": 68 },
-      { "name": "2 star", "count": 77 },
-      { "name": "3 star", "count": 111 },
-      { "name": "4 star", "count": 205 },
-      { "name": "5 star", "count": 395 }
-    ]
-  },
-  {
-    "image": "https://www.ctrl.blog/media/hero/safari-default-media-player-icons-missing.jpeg",
-    "title": "BrowserFast",
-    "companyName": "WebSurf",
-    "id": 39,
-    "description": "Fast and private web browser.",
-    "size": 70,
-    "reviews": 2235,
-    "ratingAvg": 4.8,
-    "downloads": 1115265,
-    "ratings": [
-      { "name": "1 star", "count": 89 },
-      { "name": "2 star", "count": 111 },
-      { "name": "3 star", "count": 245 },
-      { "name": "4 star", "count": 625 },
-      { "name": "5 star", "count": 1165 }
-    ]
-  },
-  {
-    "image": "https://cdn.creazilla.com/cliparts/7929184/email-icon-clipart-xl.png",
-    "title": "EmailClient",
-    "companyName": "MailBox",
-    "id": 40,
-    "description": "Manage multiple email accounts.",
-    "size": 60,
-    "reviews": 2657,
-    "ratingAvg": 4.1,
-    "downloads": 1012317,
-    "ratings": [
-      { "name": "1 star", "count": 292 },
-      { "name": "2 star", "count": 318 },
-      { "name": "3 star", "count": 385 },
-      { "name": "4 star", "count": 557 },
-      { "name": "5 star", "count": 1105 }
-    ]
-  },
-  {
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/007b4a6d-3b0b-4043-8816-d1a9155d1841/d4nl129-34c9a0a6-4ec6-41f1-b4d3-32f70cffcd41.png",
-    "title": "CameraPro",
-    "companyName": "SnapShot",
-    "id": 41,
-    "description": "Enhanced camera features.",
-    "size": 74,
-    "reviews": 1786,
-    "ratingAvg": 4.2,
-    "downloads": 653676,
-    "ratings": [
-      { "name": "1 star", "count": 178 },
-      { "name": "2 star", "count": 196 },
-      { "name": "3 star", "count": 250 },
-      { "name": "4 star", "count": 392 },
-      { "name": "5 star", "count": 770 }
-    ]
-  },
-  {
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/5ee26243-71ce-4630-b9af-3ebe395598a5/deas0bz-81db867e-7eb3-4735-bab7-088de5d3a09a.jpg",
-    "title": "GalleryView",
-    "companyName": "PhotoVault",
-    "id": 42,
-    "description": "Organize and secure photos.",
-    "size": 47,
-    "reviews": 1119,
-    "ratingAvg": 4.9,
-    "downloads": 387174,
-    "ratings": [
-      { "name": "1 star", "count": 33 },
-      { "name": "2 star", "count": 44 },
-      { "name": "3 star", "count": 117 },
-      { "name": "4 star", "count": 324 },
-      { "name": "5 star", "count": 601 }
-    ]
-  },
-  {
-    "image": "https://cdn.prod.website-files.com/6657203d31396fc757dfafcc/67112ba53bfd7ed6971ca622_66fc316cc050c7c59b43c25e_How-to-Connect-TikTok-to-Apple-Music-on-iPhone-and-iPad.jpeg",
-    "title": "MusicMaker",
-    "companyName": "BeatStudio",
-    "id": 43,
-    "description": "Create music tracks.",
-    "size": 56,
-    "reviews": 2169,
-    "ratingAvg": 4.7,
-    "downloads": 809037,
-    "ratings": [
-      { "name": "1 star", "count": 108 },
-      { "name": "2 star", "count": 130 },
-      { "name": "3 star", "count": 249 },
-      { "name": "4 star", "count": 585 },
-      { "name": "5 star", "count": 1097 }
-    ]
-  },
-  {
-    "image": "https://iprx-cms-content.ams1.vultrobjects.com/photo_2023_04_18_18_17_46_7e973240c8.jpeg",
-    "title": "DrawingApp",
-    "companyName": "ArtPad",
-    "id": 44,
-    "description": "Digital drawing and sketching.",
-    "size": 33,
-    "reviews": 2607,
-    "ratingAvg": 4.9,
-    "downloads": 273735,
-    "ratings": [
-      { "name": "1 star", "count": 78 },
-      { "name": "2 star", "count": 104 },
-      { "name": "3 star", "count": 273 },
-      { "name": "4 star", "count": 756 },
-      { "name": "5 star", "count": 1396 }
-    ]
-  },
-  {
-    "image": "https://p0.piqsels.com/preview/644/984/936/newsletter-news-app-article.jpg",
-    "title": "NewsReader",
-    "companyName": "InfoFeed",
-    "id": 45,
-    "description": "Personalized news feed.",
-    "size": 81,
-    "reviews": 2230,
-    "ratingAvg": 4.5,
-    "downloads": 419240,
-    "ratings": [
-      { "name": "1 star", "count": 156 },
-      { "name": "2 star", "count": 178 },
-      { "name": "3 star", "count": 278 },
-      { "name": "4 star", "count": 557 },
-      { "name": "5 star", "count": 1061 }
-    ]
-  },
-  {
-    "image": "https://www.ctrl.blog/media/hero/joplin.png",
-    "title": "TodoList",
-    "companyName": "TaskMaster",
-    "id": 46,
-    "description": "Simple to-do list manager.",
-    "size": 20,
-    "reviews": 1367,
-    "ratingAvg": 4.4,
-    "downloads": 183178,
-    "ratings": [
-      { "name": "1 star", "count": 109 },
-      { "name": "2 star", "count": 123 },
-      { "name": "3 star", "count": 177 },
-      { "name": "4 star", "count": 328 },
-      { "name": "5 star", "count": 630 }
-    ]
-  },
-  {
-    "image": "https://brandenbodendorfer.com/wp-content/uploads/2024/06/switch-to-a-digital-daily-planner.jpg",
-    "title": "ExpenseTracker",
-    "companyName": "BudgetPro",
-    "id": 47,
-    "description": "Track daily expenses.",
-    "size": 62,
-    "reviews": 1319,
-    "ratingAvg": 4.5,
-    "downloads": 251929,
-    "ratings": [
-      { "name": "1 star", "count": 92 },
-      { "name": "2 star", "count": 105 },
-      { "name": "3 star", "count": 164 },
-      { "name": "4 star", "count": 329 },
-      { "name": "5 star", "count": 629 }
-    ]
-  },
-  {
-    "image": "https://brandenbodendorfer.com/wp-content/uploads/2024/04/best-free-shareable-planning-app.jpg",
-    "title": "HabitBuilder",
-    "companyName": "RoutineApp",
-    "id": 48,
-    "description": "Build good habits.",
-    "size": 96,
-    "reviews": 1801,
-    "ratingAvg": 4.7,
-    "downloads": 817654,
-    "ratings": [
-      { "name": "1 star", "count": 90 },
-      { "name": "2 star", "count": 108 },
-      { "name": "3 star", "count": 207 },
-      { "name": "4 star", "count": 486 },
-      { "name": "5 star", "count": 910 }
-    ]
-  },
-  {
-    "image": "https://c0.wallpaperflare.com/preview/24/729/309/solved-3x3-rubik-s-cube.jpg",
-    "title": "QuizGame",
-    "companyName": "KnowTest",
-    "id": 49,
-    "description": "Fun quizzes and trivia.",
-    "size": 35,
-    "reviews": 1877,
-    "ratingAvg": 4.6,
-    "downloads": 649442,
-    "ratings": [
-      { "name": "1 star", "count": 79 },
-      { "name": "2 star", "count": 92 },
-      { "name": "3 star", "count": 158 },
-      { "name": "4 star", "count": 343 },
-      { "name": "5 star", "count": 649 }
-    ]
-  },
-  {
-    "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvbnMxMTc4MS1pbWFnZS1rd3Z5ZGoxdS5qcGc.jpg",
-    "title": "RemoteControl",
-    "companyName": "DeviceLink",
-    "id": 50,
-    "description": "Control devices remotely.",
-    "size": 63,
-    "reviews": 2998,
-    "ratingAvg": 4.8,
-    "downloads": 557628,
-    "ratings": [
-      { "name": "1 star", "count": 119 },
-      { "name": "2 star", "count": 149 },
-      { "name": "3 star", "count": 329 },
-      { "name": "4 star", "count": 839 },
-      { "name": "5 star", "count": 1562 }
-    ]
-  },
-  {
-    "image": "https://tradersunion.com/uploads/articles/403753/trust-wallet.jpeg",
-    "title": "CryptoWallet",
-    "companyName": "SecureCoin",
-    "id": 51,
-    "description": "Manage cryptocurrencies securely.",
-    "size": 63,
-    "reviews": 1002,
-    "ratingAvg": 4.1,
-    "downloads": 213426,
-    "ratings": [
-      { "name": "1 star", "count": 110 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 145 },
-      { "name": "4 star", "count": 210 },
-      { "name": "5 star", "count": 417 }
-    ]
-  },
-  {
-    "image": "https://cdn.iconscout.com/icon-pack/preview-mockup/free-social-media-icons-logo-icon-pack-svg-download-png-35340.png",
-    "title": "ARViewer",
-    "companyName": "AugReality",
-    "id": 52,
-    "description": "Augmented reality experiences.",
-    "size": 50,
-    "reviews": 2688,
-    "ratingAvg": 4.3,
-    "downloads": 1080576,
-    "ratings": [
-      { "name": "1 star", "count": 241 },
-      { "name": "2 star", "count": 268 },
-      { "name": "3 star", "count": 362 },
-      { "name": "4 star", "count": 618 },
-      { "name": "5 star", "count": 1199 }
-    ]
-  },
-  {
-    "image": "https://s3.mordorintelligence.com/europe-vr-market/europe-vr-market-1765793861770-major-players.webp",
-    "title": "VRWorld",
-    "companyName": "VirtualHub",
-    "id": 53,
-    "description": "Virtual reality app for exploration.",
-    "size": 32,
-    "reviews": 1416,
-    "ratingAvg": 4.2,
-    "downloads": 672600,
-    "ratings": [
-      { "name": "1 star", "count": 141 },
-      { "name": "2 star", "count": 155 },
-      { "name": "3 star", "count": 198 },
-      { "name": "4 star", "count": 311 },
-      { "name": "5 star", "count": 611 }
-    ]
-  },
-  {
-    "image": "https://lapelvet.com/wp-content/uploads/2021/09/This-isn_t-a-chew-toy-454435997_4203x2802-scaled.jpeg",
-    "title": "PetCare",
-    "companyName": "AnimalFriend",
-    "id": 54,
-    "description": "Pet health and care tracker.",
-    "size": 43,
-    "reviews": 2954,
-    "ratingAvg": 4.0,
-    "downloads": 1447460,
-    "ratings": [
-      { "name": "1 star", "count": 354 },
-      { "name": "2 star", "count": 384 },
-      { "name": "3 star", "count": 443 },
-      { "name": "4 star", "count": 590 },
-      { "name": "5 star", "count": 1183 }
-    ]
-  },
-  {
-    "image": "https://cdn.creazilla.com/cliparts/36797/gardening-supplies-clipart-xl.png",
-    "title": "GardeningApp",
-    "companyName": "GreenThumb",
-    "id": 55,
-    "description": "Gardening tips and plant care.",
-    "size": 28,
-    "reviews": 1978,
-    "ratingAvg": 4.3,
-    "downloads": 241316,
-    "ratings": [
-      { "name": "1 star", "count": 178 },
-      { "name": "2 star", "count": 197 },
-      { "name": "3 star", "count": 267 },
-      { "name": "4 star", "count": 454 },
-      { "name": "5 star", "count": 882 }
-    ]
-  },
-  {
-    "image": "https://miro.medium.com/v2/resize:fit:1400/0*V6FATLDx9fJYLmZt.jpg",
-    "title": "Astronomy",
-    "companyName": "StarGaze",
-    "id": 56,
-    "description": "Star mapping and astronomy info.",
-    "size": 75,
-    "reviews": 2022,
-    "ratingAvg": 4.9,
-    "downloads": 535830,
-    "ratings": [
-      { "name": "1 star", "count": 60 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 212 },
-      { "name": "4 star", "count": 586 },
-      { "name": "5 star", "count": 1084 }
-    ]
-  },
-  {
-    "image": "https://images.squarespace-cdn.com/content/v1/5fe9eca58d20536a3fc0253a/5d3bc60f-4dc9-440e-9490-43495333f97a/Faulu+the+leopard%2C+with+a+Topi+kill+-+Maasai+Mara-3.jpg",
-    "title": "CookingTimer",
-    "companyName": "ChefAid",
-    "id": 57,
-    "description": "Kitchen timers and conversions.",
-    "size": 97,
-    "reviews": 732,
-    "ratingAvg": 4.2,
-    "downloads": 248880,
-    "ratings": [
-      { "name": "1 star", "count": 73 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 102 },
-      { "name": "4 star", "count": 161 },
-      { "name": "5 star", "count": 316 }
-    ]
-  },
-  {
-    "image": "https://s3.mordorintelligence.com/gps-bike-computers-market/gps-bike-computers-market-1716376157068-Major-Players.webp",
-    "title": "BikeTracker",
-    "companyName": "CyclePro",
-    "id": 58,
-    "description": "Track bike rides and routes.",
-    "size": 29,
-    "reviews": 1039,
-    "ratingAvg": 4.6,
-    "downloads": 443653,
-    "ratings": [
-      { "name": "1 star", "count": 62 },
-      { "name": "2 star", "count": 72 },
-      { "name": "3 star", "count": 124 },
-      { "name": "4 star", "count": 270 },
-      { "name": "5 star", "count": 511 }
-    ]
-  },
-  {
-    "image": "https://aqua-cloud.io/wp-content/uploads/2025/10/uc-2",
-    "title": "RunningCoach",
-    "companyName": "RunFit",
-    "id": 59,
-    "description": "Running training and tracking.",
-    "size": 71,
-    "reviews": 2952,
-    "ratingAvg": 4.0,
-    "downloads": 1198512,
-    "ratings": [
-      { "name": "1 star", "count": 354 },
-      { "name": "2 star", "count": 383 },
-      { "name": "3 star", "count": 442 },
-      { "name": "4 star", "count": 590 },
-      { "name": "5 star", "count": 1183 }
-    ]
-  },
-  {
-    "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMzg5MTQ2LWltYWdlLWt3dnZ6cGxvLmpwZw.jpg",
-    "title": "YogaGuide",
-    "companyName": "PoseMaster",
-    "id": 60,
-    "description": "Yoga poses and sessions.",
-    "size": 21,
-    "reviews": 2535,
-    "ratingAvg": 4.5,
-    "downloads": 750360,
-    "ratings": [
-      { "name": "1 star", "count": 177 },
-      { "name": "2 star", "count": 202 },
-      { "name": "3 star", "count": 316 },
-      { "name": "4 star", "count": 633 },
-      { "name": "5 star", "count": 1207 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Icon-wiki-puzzle.svg",
-    "title": "PuzzleGame",
-    "companyName": "BrainTease",
-    "id": 61,
-    "description": "Daily puzzles and brain games.",
-    "size": 95,
-    "reviews": 1677,
-    "ratingAvg": 4.2,
-    "downloads": 662415,
-    "ratings": [
-      { "name": "1 star", "count": 167 },
-      { "name": "2 star", "count": 184 },
-      { "name": "3 star", "count": 234 },
-      { "name": "4 star", "count": 368 },
-      { "name": "5 star", "count": 724 }
-    ]
-  },
-  {
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e3c349bc-5897-4b1a-85a8-02a99880fd42/dcv20s4-cf5817ff-6165-4d43-bcca-7f524f4ecaf5.jpg",
-    "title": "ComicReader",
-    "companyName": "StripView",
-    "id": 62,
-    "description": "Read comics and graphic novels.",
-    "size": 66,
-    "reviews": 1321,
-    "ratingAvg": 4.6,
-    "downloads": 298546,
-    "ratings": [
-      { "name": "1 star", "count": 79 },
-      { "name": "2 star", "count": 92 },
-      { "name": "3 star", "count": 158 },
-      { "name": "4 star", "count": 343 },
-      { "name": "5 star", "count": 649 }
-    ]
   }
+
+
 ]
