@@ -5,7 +5,7 @@ const TrendingApp = ({data}) => {
       const trendingApps = data.slice(0,8);
     return (
 
-        <div className='mt-20 mb-10'>
+        <div className='mt-20 mb-10 bg-base-100'>
             <div className='flex flex-col items-center gap-4'>
                 <h1 className='text-4xl font-bold'>Trending Apps</h1>
                 <p className='text-sm md:text-2xl font-light text-[#627382]'>Explore All Trending Apps on the Market developed by us</p>
@@ -14,6 +14,9 @@ const TrendingApp = ({data}) => {
                 {
                     trendingApps.map(app => <ShowTrendingApp key={app.id} app = {app}></ShowTrendingApp>)
                 }
+             </div>
+             <div className="flex justify-center mt-6">
+                <button className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white px-6">Show All</button>
              </div>
         </div>
     );
