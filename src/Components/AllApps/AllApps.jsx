@@ -12,7 +12,7 @@ const AllApps = () => {
                 <p className="flex items-center animate-bounce tracking-tighter"> <span>L</span> <img className="mx-1 w-10 h-10 animate-spin"src={icon} alt=""/><span>ading</span></p>
             </div>
       </>
-   console.log("Navigation state:", navigation.state);
+//    console.log("Navigation state:", navigation.state);
     if (navigation.state === "loading") {
   return loader;
 }

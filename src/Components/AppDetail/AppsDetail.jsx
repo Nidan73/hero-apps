@@ -4,6 +4,7 @@ import downloadimg from '../../assets/icon-downloads.png'
 import ratingimg from '../../assets/icon-ratings.png'
 import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from 'recharts';
 import { addToStoreDB, getStoredId } from '../../Utilities/Utilities';
+import { toast } from 'react-toastify';
 const AppsDetail = () => {
     const {id} = useParams()
     const appId = parseInt(id,10)
@@ -42,6 +43,7 @@ const AppsDetail = () => {
       
       const handleInstall = (id) => {
              addToStoreDB(id)
+             toast("App is Installed Succesfully")
              setInstall([])
       }
     return (
@@ -55,7 +57,7 @@ const AppsDetail = () => {
                                          </figure>
                                          <div className="card-body">
                                            <h2 className="card-title md:text-[32px] font-bold">{singleApp.title}</h2>
-                                           <p className='md:text-xl'><span className='font-light text-gray-400'>Developed by : </span><span className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold'>{singleApp.companyName}</span></p>
+                                           <p className='md:text-xl'><span className='font-light text-gray-400'>Developed by : </span><span className='bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold'>{singleApp.companyName}</span></p>
                                            <div className="divider"></div>
                                            <div className='flex mx-7 my-7 gap-14'>
                                                <div className='flex flex-col items-center  justify-center text-center'>

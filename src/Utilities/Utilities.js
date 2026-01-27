@@ -1,3 +1,5 @@
+import { toast } from "react-toastify";
+
 const getStoredId = () =>
 {
     const storeStr = localStorage.getItem("Installed");
@@ -12,12 +14,23 @@ const getStoredId = () =>
     }
 }
 
+const removeFromStoreDB = (id) => {
+    const storedBookData = getStoredId();
+
+    if (!storedBookData.includes(id)) {
+        toast("id not found");
+        return;
+    }
+
+    const updatedData = storedBookData.filter(storedId => storedId !== id);
+    localStorage.setItem("Installed", JSON.stringify(updatedData));
+};
 const addToStoreDB = (id) =>{
     const storedBookData = getStoredId();
 
     if(storedBookData.includes(id))
     {
-        alert("id is already here")
+        toast("Already Installed")
     }
     else{
         storedBookData.push(id);
@@ -26,4 +39,4 @@ const addToStoreDB = (id) =>{
     }
 }
 
-export {addToStoreDB,getStoredId}
+export {addToStoreDB,getStoredId ,removeFromStoreDB}

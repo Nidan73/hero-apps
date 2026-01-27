@@ -35,7 +35,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a href='https://github.com/Nidan73?tab=repositories' target="_blank"  className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"><img src={github} alt="" />Contribute</a>
+    <a href='https://github.com/Nidan73/hero-apps' target="_blank"  className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"><img src={github} alt="" />Contribute</a>
   </div>
   </div>
           </div> </div>

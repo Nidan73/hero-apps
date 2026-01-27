@@ -17,7 +17,7 @@ const AppError = () => {
       </Link>
     </div>
   </div>
-</div>
+</div> 
         </div>
     );
 };
