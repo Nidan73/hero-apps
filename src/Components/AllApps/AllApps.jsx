@@ -8,7 +8,7 @@ const AllApps = () => {
      const navigation = useNavigation()
     const [search, setSearch] = useState("");
      const loader = <>
-       <div className='flex gap-1.5 justify-center text-6xl items-center'>
+       <div className='flex mt-60 gap-1.5 justify-center text-6xl items-center'>
                 <p className="flex items-center animate-bounce tracking-tighter"> <span>L</span> <img className="mx-1 w-10 h-10 animate-spin"src={icon} alt=""/><span>ading</span></p>
             </div>
       </>

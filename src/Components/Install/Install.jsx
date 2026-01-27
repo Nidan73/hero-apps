@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { getStoredId, removeFromStoreDB } from '../../Utilities/Utilities';
-import { useLoaderData } from 'react-router';
+import { useLoaderData, useNavigation } from 'react-router';
 import InstallAppCard from './InstallAppCard';
+import icon from '../../assets/logo.png'
 
 const Install = () => {
     const data = useLoaderData();
@@ -34,6 +35,19 @@ const Install = () => {
                    setApps(sortByHigh)
                    return
               }
+         }
+
+          const loader = <>
+          <div className='flex mt-60 gap-1.5 justify-center text-6xl items-center'>
+                   <p className="flex items-center animate-bounce tracking-tighter"> <span>L</span> <img className="mx-1 w-10 h-10 animate-spin"src={icon} alt=""/><span>ading</span></p>
+               </div>
+         </>  
+
+        const navigation = useNavigation()
+
+         if(navigation.state === "loading")
+         {
+            return loader
          }
     return (
         <div className='max-w-550 mx-auto'>
