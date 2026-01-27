@@ -9,7 +9,7 @@ This project focuses on clean UI design, efficient state management, and real-wo
 ## 🌐 Live Demo
 
 🔗 **Live Website:**  
-https://hero-apps.vercel.app  
+https://hero-apps-nidan.netlify.app/
 
 🔗 **GitHub Repository:**  
 https://github.com/Nidan73/hero-apps
